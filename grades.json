@@ -59,7 +59,8 @@
           "percentage": 99.2,
           "pdf": "#",
           "class_rank": 1,
-          "grade_rank": 1
+          "grade_rank": 3,
+          "_grade_size": 160
         },
         {
           "name": "وسام بن بشار بن فيربخش ابراهيم البلوشي",
@@ -113,7 +114,8 @@
           "percentage": 98.9,
           "pdf": "pdfs/5-1/29273782.pdf",
           "class_rank": 2,
-          "grade_rank": 2
+          "grade_rank": 4,
+          "_grade_size": 160
         },
         {
           "name": "علي بن سالم بن سعيد سالم الكلباني",
@@ -167,7 +169,8 @@
           "percentage": 98.0,
           "pdf": "pdfs/5-1/28624434.pdf",
           "class_rank": 3,
-          "grade_rank": 3
+          "grade_rank": 7,
+          "_grade_size": 160
         },
         {
           "name": "عبدالحميد بن عمر بن محمد سليّم المعمري",
@@ -221,7 +224,8 @@
           "percentage": 96.8,
           "pdf": "#",
           "class_rank": 4,
-          "grade_rank": 4
+          "grade_rank": 14,
+          "_grade_size": 160
         },
         {
           "name": "سالم بن ناصر بن محمد خلفان اليحيائي",
@@ -275,7 +279,8 @@
           "percentage": 95.9,
           "pdf": "pdfs/5-1/28850057.pdf",
           "class_rank": 5,
-          "grade_rank": 5
+          "grade_rank": 21,
+          "_grade_size": 160
         },
         {
           "name": "بدر بن حامد بن بدر حامد الهوتي",
@@ -329,7 +334,8 @@
           "percentage": 95.8,
           "pdf": "pdfs/5-1/28664116.pdf",
           "class_rank": 6,
-          "grade_rank": 6
+          "grade_rank": 23,
+          "_grade_size": 160
         },
         {
           "name": "عمار بن محمود بن مراد يارمحمد البلوشي",
@@ -383,7 +389,8 @@
           "percentage": 94.8,
           "pdf": "pdfs/5-1/104038906.pdf",
           "class_rank": 7,
-          "grade_rank": 7
+          "grade_rank": 32,
+          "_grade_size": 160
         },
         {
           "name": "آدم بن طه بن محمد سليمان الصباحي",
@@ -437,7 +444,8 @@
           "percentage": 94.7,
           "pdf": "pdfs/5-1/28783032.pdf",
           "class_rank": 8,
-          "grade_rank": 8
+          "grade_rank": 33,
+          "_grade_size": 160
         },
         {
           "name": "الهجرس بن مقبول بن مصبح جميل البلوشي",
@@ -491,7 +499,8 @@
           "percentage": 94.7,
           "pdf": "pdfs/5-1/28704079.pdf",
           "class_rank": 9,
-          "grade_rank": 9
+          "grade_rank": 34,
+          "_grade_size": 160
         },
         {
           "name": "سعيد بن أحمد بن سعيد سلطان المسكري",
@@ -545,7 +554,8 @@
           "percentage": 94.7,
           "pdf": "pdfs/5-1/28764516.pdf",
           "class_rank": 10,
-          "grade_rank": 10
+          "grade_rank": 35,
+          "_grade_size": 160
         },
         {
           "name": "أثر بن هيثم بن يحيى مبارك اليوسفي",
@@ -599,7 +609,8 @@
           "percentage": 94.5,
           "pdf": "pdfs/5-1/28598318.pdf",
           "class_rank": 11,
-          "grade_rank": 11
+          "grade_rank": 37,
+          "_grade_size": 160
         },
         {
           "name": "نوفل بن بدر بن ناصر سليمان الحمداني",
@@ -653,7 +664,8 @@
           "percentage": 94.5,
           "pdf": "pdfs/5-1/29216177.pdf",
           "class_rank": 12,
-          "grade_rank": 12
+          "grade_rank": 38,
+          "_grade_size": 160
         },
         {
           "name": "يحيى ريحان محمد عبده",
@@ -707,7 +719,8 @@
           "percentage": 94.2,
           "pdf": "pdfs/5-1/107096502.pdf",
           "class_rank": 13,
-          "grade_rank": 13
+          "grade_rank": 41,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحمن بن منصور بن ناصر منصور الرحبي",
@@ -761,7 +774,8 @@
           "percentage": 93.5,
           "pdf": "pdfs/5-1/28400582.pdf",
           "class_rank": 14,
-          "grade_rank": 14
+          "grade_rank": 45,
+          "_grade_size": 160
         },
         {
           "name": "الفضل بن خليفه بن علي مسلم الحاتمي",
@@ -815,7 +829,8 @@
           "percentage": 93.3,
           "pdf": "pdfs/5-1/28976597.pdf",
           "class_rank": 15,
-          "grade_rank": 15
+          "grade_rank": 46,
+          "_grade_size": 160
         },
         {
           "name": "أحمد بن محمود بن حبيب سعيد الرواحي",
@@ -869,7 +884,8 @@
           "percentage": 92.2,
           "pdf": "pdfs/5-1/29158719.pdf",
           "class_rank": 16,
-          "grade_rank": 16
+          "grade_rank": 49,
+          "_grade_size": 160
         },
         {
           "name": "أنس بن عارف بن هلال علي الحوسني",
@@ -923,7 +939,8 @@
           "percentage": 92.2,
           "pdf": "#",
           "class_rank": 17,
-          "grade_rank": 17
+          "grade_rank": 50,
+          "_grade_size": 160
         },
         {
           "name": "عثمان الخضر الامين محمد",
@@ -977,7 +994,8 @@
           "percentage": 91.5,
           "pdf": "#",
           "class_rank": 18,
-          "grade_rank": 18
+          "grade_rank": 53,
+          "_grade_size": 160
         },
         {
           "name": "هتان بن معاذ بن عبدالله خميس اليحيائي",
@@ -1031,7 +1049,8 @@
           "percentage": 91.1,
           "pdf": "#",
           "class_rank": 19,
-          "grade_rank": 19
+          "grade_rank": 56,
+          "_grade_size": 160
         },
         {
           "name": "أواب بن أيوب بن سعيد علي العمري",
@@ -1085,7 +1104,8 @@
           "percentage": 90.2,
           "pdf": "pdfs/5-1/29235517.pdf",
           "class_rank": 20,
-          "grade_rank": 20
+          "grade_rank": 62,
+          "_grade_size": 160
         },
         {
           "name": "سيف بن محمد بن سيف خميس الفوري",
@@ -1139,7 +1159,8 @@
           "percentage": 89.3,
           "pdf": "pdfs/5-1/28699163.pdf",
           "class_rank": 21,
-          "grade_rank": 21
+          "grade_rank": 66,
+          "_grade_size": 160
         },
         {
           "name": "أنس بن عبدالعزيز بن أحمد خليل الفارسي",
@@ -1193,7 +1214,8 @@
           "percentage": 89.1,
           "pdf": "pdfs/5-1/29289623.pdf",
           "class_rank": 22,
-          "grade_rank": 22
+          "grade_rank": 67,
+          "_grade_size": 160
         },
         {
           "name": "حازم بن عزيز بن جمعه عزيز الحبسي",
@@ -1247,7 +1269,8 @@
           "percentage": 87.2,
           "pdf": "pdfs/5-1/28857597.pdf",
           "class_rank": 23,
-          "grade_rank": 23
+          "grade_rank": 73,
+          "_grade_size": 160
         },
         {
           "name": "أنس  هيثم  مصطفى",
@@ -1301,7 +1324,8 @@
           "percentage": 87.1,
           "pdf": "pdfs/5-1/137559823.pdf",
           "class_rank": 24,
-          "grade_rank": 24
+          "grade_rank": 74,
+          "_grade_size": 160
         },
         {
           "name": "حذيفه صديقي",
@@ -1355,7 +1379,8 @@
           "percentage": 86.2,
           "pdf": "pdfs/5-1/126718289.pdf",
           "class_rank": 25,
-          "grade_rank": 25
+          "grade_rank": 78,
+          "_grade_size": 160
         },
         {
           "name": "شبيب بن سعيد بن سيف عبدالله الشامسي",
@@ -1409,7 +1434,8 @@
           "percentage": 86.2,
           "pdf": "#",
           "class_rank": 26,
-          "grade_rank": 26
+          "grade_rank": 79,
+          "_grade_size": 160
         },
         {
           "name": "راشد محمد  سعيد",
@@ -1463,7 +1489,8 @@
           "percentage": 83.7,
           "pdf": "pdfs/5-1/103013707.pdf",
           "class_rank": 27,
-          "grade_rank": 27
+          "grade_rank": 88,
+          "_grade_size": 160
         },
         {
           "name": "يوسف بن أسعد بن زكي محمد الحسني",
@@ -1517,7 +1544,8 @@
           "percentage": 82.6,
           "pdf": "pdfs/5-1/29206549.pdf",
           "class_rank": 28,
-          "grade_rank": 28
+          "grade_rank": 95,
+          "_grade_size": 160
         },
         {
           "name": "سيف بن خالد بن سيف محمد الرواحي",
@@ -1571,7 +1599,8 @@
           "percentage": 80.6,
           "pdf": "pdfs/5-1/28913523.pdf",
           "class_rank": 29,
-          "grade_rank": 29
+          "grade_rank": 100,
+          "_grade_size": 160
         },
         {
           "name": "شيث بن يوسف بن سعيد خلفان الضامري",
@@ -1625,7 +1654,8 @@
           "percentage": 79.1,
           "pdf": "pdfs/5-1/28476804.pdf",
           "class_rank": 30,
-          "grade_rank": 30
+          "grade_rank": 107,
+          "_grade_size": 160
         },
         {
           "name": "إياد بن خليل بن ابراهيم خلفان المحرمي",
@@ -1679,7 +1709,8 @@
           "percentage": 78.1,
           "pdf": "pdfs/5-1/29159267.pdf",
           "class_rank": 31,
-          "grade_rank": 31
+          "grade_rank": 110,
+          "_grade_size": 160
         },
         {
           "name": "مجد بن محمد بن سالم ناصر الشكيلي",
@@ -1733,7 +1764,8 @@
           "percentage": 75.8,
           "pdf": "pdfs/5-1/29348786.pdf",
           "class_rank": 32,
-          "grade_rank": 32
+          "grade_rank": 117,
+          "_grade_size": 160
         },
         {
           "name": "مهينور رحمان  مسعود الرحمن",
@@ -1787,7 +1819,8 @@
           "percentage": 74.5,
           "pdf": "pdfs/5-1/99648632.pdf",
           "class_rank": 33,
-          "grade_rank": 33
+          "grade_rank": 123,
+          "_grade_size": 160
         },
         {
           "name": "يونس مهدي محمد الحطيبي",
@@ -1841,7 +1874,8 @@
           "percentage": 73.5,
           "pdf": "pdfs/5-1/107609105.pdf",
           "class_rank": 34,
-          "grade_rank": 34
+          "grade_rank": 125,
+          "_grade_size": 160
         },
         {
           "name": "يونس محمد فتحي مصطفى طه",
@@ -1895,7 +1929,8 @@
           "percentage": 73.4,
           "pdf": "pdfs/5-1/106078913.pdf",
           "class_rank": 35,
-          "grade_rank": 35
+          "grade_rank": 126,
+          "_grade_size": 160
         },
         {
           "name": "الوليد بن خالد بن محمد سعيد اليوسفي",
@@ -1949,7 +1984,8 @@
           "percentage": 70.6,
           "pdf": "pdfs/5-1/28753502.pdf",
           "class_rank": 36,
-          "grade_rank": 36
+          "grade_rank": 134,
+          "_grade_size": 160
         },
         {
           "name": "محمد حسان محمد سعيد حمادة",
@@ -2003,7 +2039,8 @@
           "percentage": 67.5,
           "pdf": "pdfs/5-1/106078238.pdf",
           "class_rank": 37,
-          "grade_rank": 37
+          "grade_rank": 142,
+          "_grade_size": 160
         },
         {
           "name": "قصي بن محمد بن خليفه ناصر الرواحي",
@@ -2057,7 +2094,8 @@
           "percentage": 66.6,
           "pdf": "pdfs/5-1/28885769.pdf",
           "class_rank": 38,
-          "grade_rank": 38
+          "grade_rank": 145,
+          "_grade_size": 160
         },
         {
           "name": "عبدالله بن خلفان بن سلام علي العامري",
@@ -2111,7 +2149,8 @@
           "percentage": 66.1,
           "pdf": "#",
           "class_rank": 39,
-          "grade_rank": 39
+          "grade_rank": 148,
+          "_grade_size": 160
         },
         {
           "name": "باسم بن ابراهيم بن خميس ناصر الفوري",
@@ -2165,7 +2204,8 @@
           "percentage": 65.9,
           "pdf": "pdfs/5-1/29034901.pdf",
           "class_rank": 40,
-          "grade_rank": 40
+          "grade_rank": 149,
+          "_grade_size": 160
         }
       ]
     },
@@ -2225,7 +2265,8 @@
           "percentage": 99.5,
           "class_rank": 1,
           "grade_rank": 1,
-          "_class_size": 41
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "زياد بن بدر بن ناصر سعيد الحسني",
@@ -2278,8 +2319,9 @@
           "max_total": 1000,
           "percentage": 97.9,
           "class_rank": 2,
-          "grade_rank": 2,
-          "_class_size": 41
+          "grade_rank": 8,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "لؤي بن سمير بن جمعه خميس الهدابي",
@@ -2332,8 +2374,9 @@
           "max_total": 1000,
           "percentage": 97.0,
           "class_rank": 3,
-          "grade_rank": 3,
-          "_class_size": 41
+          "grade_rank": 12,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "علي بن طلال بن عبدالرحمن محمد الزدجالي",
@@ -2386,8 +2429,9 @@
           "max_total": 1000,
           "percentage": 96.8,
           "class_rank": 4,
-          "grade_rank": 4,
-          "_class_size": 41
+          "grade_rank": 15,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "عمر بن هيثم بن أنور موسى البلوشي",
@@ -2440,8 +2484,9 @@
           "max_total": 1000,
           "percentage": 96.3,
           "class_rank": 5,
-          "grade_rank": 5,
-          "_class_size": 41
+          "grade_rank": 18,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "يوسف بن أحمد بن سليمان جمشات البلوشي",
@@ -2494,8 +2539,9 @@
           "max_total": 1000,
           "percentage": 96.0,
           "class_rank": 6,
-          "grade_rank": 6,
-          "_class_size": 41
+          "grade_rank": 20,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "تميم بن حمد بن سيف علي البوسعيدي",
@@ -2548,8 +2594,9 @@
           "max_total": 1000,
           "percentage": 95.8,
           "class_rank": 7,
-          "grade_rank": 7,
-          "_class_size": 41
+          "grade_rank": 24,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "تركي بن خالد بن يونس عنبر البوسعيدي",
@@ -2602,8 +2649,9 @@
           "max_total": 1000,
           "percentage": 95.1,
           "class_rank": 8,
-          "grade_rank": 8,
-          "_class_size": 41
+          "grade_rank": 29,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "وديع عمران  الخوجه",
@@ -2656,8 +2704,9 @@
           "max_total": 1000,
           "percentage": 94.6,
           "class_rank": 9,
-          "grade_rank": 9,
-          "_class_size": 41
+          "grade_rank": 36,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "أُزد بن أيمن بن سليمان ناصر الذهلي",
@@ -2710,8 +2759,9 @@
           "max_total": 1000,
           "percentage": 91.9,
           "class_rank": 10,
-          "grade_rank": 10,
-          "_class_size": 41
+          "grade_rank": 52,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "سالم بن سعود بن يوسف علي السنيدي",
@@ -2764,8 +2814,9 @@
           "max_total": 1000,
           "percentage": 91.3,
           "class_rank": 11,
-          "grade_rank": 11,
-          "_class_size": 41
+          "grade_rank": 54,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "صهيب بن عرفات بن محمد سيف السيابي",
@@ -2818,8 +2869,9 @@
           "max_total": 1000,
           "percentage": 91.2,
           "class_rank": 12,
-          "grade_rank": 12,
-          "_class_size": 41
+          "grade_rank": 55,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "سيف بن هيثم بن سيف حمود اليحيائي",
@@ -2872,8 +2924,9 @@
           "max_total": 1000,
           "percentage": 89.1,
           "class_rank": 13,
-          "grade_rank": 13,
-          "_class_size": 41
+          "grade_rank": 68,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن خلفان بن مبارك خلفان الجابري",
@@ -2926,8 +2979,9 @@
           "max_total": 1000,
           "percentage": 89.0,
           "class_rank": 14,
-          "grade_rank": 14,
-          "_class_size": 41
+          "grade_rank": 69,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "تركي بن محمد بن خلفان محمد البوسعيدي",
@@ -2980,8 +3034,9 @@
           "max_total": 1000,
           "percentage": 88.6,
           "class_rank": 15,
-          "grade_rank": 15,
-          "_class_size": 41
+          "grade_rank": 70,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "بدر بن جميل بن حمد سعيد الفجري",
@@ -3034,8 +3089,9 @@
           "max_total": 1000,
           "percentage": 85.8,
           "class_rank": 16,
-          "grade_rank": 16,
-          "_class_size": 41
+          "grade_rank": 80,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحمن بن عبدالله بن خلفان منين الدغيشي",
@@ -3088,8 +3144,9 @@
           "max_total": 1000,
           "percentage": 84.3,
           "class_rank": 17,
-          "grade_rank": 17,
-          "_class_size": 41
+          "grade_rank": 86,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحمن بن أحمد بن سعيد منير اليوسفي",
@@ -3142,8 +3199,9 @@
           "max_total": 1000,
           "percentage": 83.6,
           "class_rank": 18,
-          "grade_rank": 18,
-          "_class_size": 41
+          "grade_rank": 89,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "أحمد بن خالد بن عبدالله خميس اليحيائي",
@@ -3196,8 +3254,9 @@
           "max_total": 1000,
           "percentage": 83.1,
           "class_rank": 19,
-          "grade_rank": 19,
-          "_class_size": 41
+          "grade_rank": 92,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "المعتصم بن محمد بن خميس محمد اليوسفي",
@@ -3250,8 +3309,9 @@
           "max_total": 1000,
           "percentage": 83.1,
           "class_rank": 20,
-          "grade_rank": 20,
-          "_class_size": 41
+          "grade_rank": 93,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "الجلندى بن وليد بن جمعه خميس الهدابي",
@@ -3304,8 +3364,9 @@
           "max_total": 1000,
           "percentage": 82.6,
           "class_rank": 21,
-          "grade_rank": 21,
-          "_class_size": 41
+          "grade_rank": 96,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "أحمد بن ماجد بن حمود مبارك المحرمي",
@@ -3358,8 +3419,9 @@
           "max_total": 1000,
           "percentage": 80.7,
           "class_rank": 22,
-          "grade_rank": 22,
-          "_class_size": 41
+          "grade_rank": 99,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "أيهم بن عامر بن خالد برويزركن الدين",
@@ -3412,8 +3474,9 @@
           "max_total": 1000,
           "percentage": 79.5,
           "class_rank": 23,
-          "grade_rank": 23,
-          "_class_size": 41
+          "grade_rank": 104,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "مروان بن نصر بن خميس علي اليوسفي",
@@ -3466,8 +3529,9 @@
           "max_total": 1000,
           "percentage": 79.4,
           "class_rank": 24,
-          "grade_rank": 24,
-          "_class_size": 41
+          "grade_rank": 105,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "الخطاب بن خالد بن عبدالله راشد الحديدي",
@@ -3520,8 +3584,9 @@
           "max_total": 1000,
           "percentage": 77.8,
           "class_rank": 25,
-          "grade_rank": 25,
-          "_class_size": 41
+          "grade_rank": 111,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن بدر بن جمعه محمد الفوري",
@@ -3574,8 +3639,9 @@
           "max_total": 1000,
           "percentage": 76.4,
           "class_rank": 26,
-          "grade_rank": 26,
-          "_class_size": 41
+          "grade_rank": 115,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "تيمور بن عبدالله بن خاطر ثاني السعدي",
@@ -3628,8 +3694,9 @@
           "max_total": 1000,
           "percentage": 75.6,
           "class_rank": 27,
-          "grade_rank": 27,
-          "_class_size": 41
+          "grade_rank": 118,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "سلطان هاني عوض علي محمد",
@@ -3682,8 +3749,9 @@
           "max_total": 1000,
           "percentage": 75.5,
           "class_rank": 28,
-          "grade_rank": 28,
-          "_class_size": 41
+          "grade_rank": 120,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "مشاري بن أسعد بن خميس حميد القيضي",
@@ -3736,8 +3804,9 @@
           "max_total": 1000,
           "percentage": 72.9,
           "class_rank": 29,
-          "grade_rank": 29,
-          "_class_size": 41
+          "grade_rank": 127,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "عياض بن خميس بن ناصر سعيد الحديدي",
@@ -3790,8 +3859,9 @@
           "max_total": 1000,
           "percentage": 72.8,
           "class_rank": 30,
-          "grade_rank": 30,
-          "_class_size": 41
+          "grade_rank": 128,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "ابراهيم بن خليل بن احمد خليل الفارسي",
@@ -3844,8 +3914,9 @@
           "max_total": 1000,
           "percentage": 72.4,
           "class_rank": 31,
-          "grade_rank": 31,
-          "_class_size": 41
+          "grade_rank": 130,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "أحمد بن عبدالله بن عبيد عبدالله الحبيشي",
@@ -3898,8 +3969,9 @@
           "max_total": 1000,
           "percentage": 72.4,
           "class_rank": 32,
-          "grade_rank": 32,
-          "_class_size": 41
+          "grade_rank": 131,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحمن صديق سعد أحمد",
@@ -3952,8 +4024,9 @@
           "max_total": 1000,
           "percentage": 70.1,
           "class_rank": 33,
-          "grade_rank": 33,
-          "_class_size": 41
+          "grade_rank": 135,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "احمد فارس  حماده",
@@ -4006,8 +4079,9 @@
           "max_total": 1000,
           "percentage": 69.7,
           "class_rank": 34,
-          "grade_rank": 34,
-          "_class_size": 41
+          "grade_rank": 137,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "فهر بن ماجد بن خميس سالم اليوسفي",
@@ -4060,8 +4134,9 @@
           "max_total": 1000,
           "percentage": 68.4,
           "class_rank": 35,
-          "grade_rank": 35,
-          "_class_size": 41
+          "grade_rank": 140,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحمن بن بدر بن جمعه علي الفارسي",
@@ -4114,8 +4189,9 @@
           "max_total": 1000,
           "percentage": 67.1,
           "class_rank": 36,
-          "grade_rank": 36,
-          "_class_size": 41
+          "grade_rank": 143,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن حسين بن علي خلفان الفوري",
@@ -4168,8 +4244,9 @@
           "max_total": 1000,
           "percentage": 66.6,
           "class_rank": 37,
-          "grade_rank": 37,
-          "_class_size": 41
+          "grade_rank": 146,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "سعد الدين عبد الكريم محمد حسن الفقى",
@@ -4222,8 +4299,9 @@
           "max_total": 1000,
           "percentage": 66.2,
           "class_rank": 38,
-          "grade_rank": 38,
-          "_class_size": 41
+          "grade_rank": 147,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن مال الله بن فقير مال الله البلوشي",
@@ -4276,8 +4354,9 @@
           "max_total": 1000,
           "percentage": 65.9,
           "class_rank": 39,
-          "grade_rank": 39,
-          "_class_size": 41
+          "grade_rank": 150,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "أسامة بن راشد بن سعيد سيف اليوسفي",
@@ -4330,8 +4409,9 @@
           "max_total": 1000,
           "percentage": 65.6,
           "class_rank": 40,
-          "grade_rank": 40,
-          "_class_size": 41
+          "grade_rank": 152,
+          "_class_size": 41,
+          "_grade_size": 160
         },
         {
           "name": "كارل علاء مراد عبدالملك",
@@ -4384,8 +4464,9 @@
           "max_total": 900,
           "percentage": 69.4,
           "class_rank": 41,
-          "grade_rank": 41,
-          "_class_size": 41
+          "grade_rank": 157,
+          "_class_size": 41,
+          "_grade_size": 160
         }
       ]
     },
@@ -4444,8 +4525,9 @@
           "max_total": 1000,
           "percentage": 98.6,
           "class_rank": 1,
-          "grade_rank": 1,
-          "_class_size": 39
+          "grade_rank": 5,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن بدر بن محمد حمد اليحيائي",
@@ -4498,8 +4580,9 @@
           "max_total": 1000,
           "percentage": 98.3,
           "class_rank": 2,
-          "grade_rank": 2,
-          "_class_size": 39
+          "grade_rank": 6,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "محمد وليد عبدالقادر عبدالصمد",
@@ -4552,8 +4635,9 @@
           "max_total": 1000,
           "percentage": 96.6,
           "class_rank": 3,
-          "grade_rank": 3,
-          "_class_size": 39
+          "grade_rank": 16,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "أنس بن مكتوم بن راشد سعيد المهمولي",
@@ -4606,8 +4690,9 @@
           "max_total": 1000,
           "percentage": 96.4,
           "class_rank": 4,
-          "grade_rank": 4,
-          "_class_size": 39
+          "grade_rank": 17,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "وافي بن أحمد بن سعيد خميس اليحيائي",
@@ -4660,8 +4745,9 @@
           "max_total": 1000,
           "percentage": 95.9,
           "class_rank": 5,
-          "grade_rank": 5,
-          "_class_size": 39
+          "grade_rank": 22,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "عصام بن أحمد بن تعيب خلفان اليحيائي",
@@ -4714,8 +4800,9 @@
           "max_total": 1000,
           "percentage": 95.7,
           "class_rank": 6,
-          "grade_rank": 6,
-          "_class_size": 39
+          "grade_rank": 26,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "عمر بن خالد بن ساعد محمد الصولي",
@@ -4768,8 +4855,9 @@
           "max_total": 1000,
           "percentage": 94.5,
           "class_rank": 7,
-          "grade_rank": 7,
-          "_class_size": 39
+          "grade_rank": 39,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحمن بن علي بن خليفه علي البلوشي",
@@ -4822,8 +4910,9 @@
           "max_total": 1000,
           "percentage": 94.3,
           "class_rank": 8,
-          "grade_rank": 8,
-          "_class_size": 39
+          "grade_rank": 40,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحمن بن خليفه بن عبدالله سليمان البيماني",
@@ -4876,8 +4965,9 @@
           "max_total": 1000,
           "percentage": 92.7,
           "class_rank": 9,
-          "grade_rank": 9,
-          "_class_size": 39
+          "grade_rank": 47,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "علي بن عبدالله بن علي هلال الخروصي",
@@ -4930,8 +5020,9 @@
           "max_total": 1000,
           "percentage": 92.6,
           "class_rank": 10,
-          "grade_rank": 10,
-          "_class_size": 39
+          "grade_rank": 48,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "فهد بن محمود بن علي مبارك الناعبي",
@@ -4984,8 +5075,9 @@
           "max_total": 1000,
           "percentage": 92.1,
           "class_rank": 11,
-          "grade_rank": 11,
-          "_class_size": 39
+          "grade_rank": 51,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "زياد بن سمير بن خلفان مبارك الوضاحي",
@@ -5038,8 +5130,9 @@
           "max_total": 1000,
           "percentage": 91.1,
           "class_rank": 12,
-          "grade_rank": 12,
-          "_class_size": 39
+          "grade_rank": 57,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "سالم بن أحمد بن عبدالرحمن خميس الرئيسي",
@@ -5092,8 +5185,9 @@
           "max_total": 1000,
           "percentage": 91.1,
           "class_rank": 13,
-          "grade_rank": 13,
-          "_class_size": 39
+          "grade_rank": 58,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "عمران بن صالح بن خميس سالم اليوسفي",
@@ -5146,8 +5240,9 @@
           "max_total": 1000,
           "percentage": 91.0,
           "class_rank": 14,
-          "grade_rank": 14,
-          "_class_size": 39
+          "grade_rank": 59,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "سالم سعيد  سالم العمودي",
@@ -5200,8 +5295,9 @@
           "max_total": 1000,
           "percentage": 89.6,
           "class_rank": 15,
-          "grade_rank": 15,
-          "_class_size": 39
+          "grade_rank": 64,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "عمر بن عبدالعزيز بن عبدالله سعيد السيابي",
@@ -5254,8 +5350,9 @@
           "max_total": 1000,
           "percentage": 88.1,
           "class_rank": 16,
-          "grade_rank": 16,
-          "_class_size": 39
+          "grade_rank": 71,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "الحارث بن سامي بن ناصر سليمان العمري",
@@ -5308,8 +5405,9 @@
           "max_total": 1000,
           "percentage": 87.6,
           "class_rank": 17,
-          "grade_rank": 17,
-          "_class_size": 39
+          "grade_rank": 72,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "أصيل بن سالم بن نجيم سليم البسامي",
@@ -5362,8 +5460,9 @@
           "max_total": 1000,
           "percentage": 87.0,
           "class_rank": 18,
-          "grade_rank": 18,
-          "_class_size": 39
+          "grade_rank": 75,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "معضد بن حمود بن حمد مسعود العلياني",
@@ -5416,8 +5515,9 @@
           "max_total": 1000,
           "percentage": 85.8,
           "class_rank": 19,
-          "grade_rank": 19,
-          "_class_size": 39
+          "grade_rank": 81,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "علي بن جمعه بن عبدالله صالح السيابي",
@@ -5470,8 +5570,9 @@
           "max_total": 1000,
           "percentage": 85.6,
           "class_rank": 20,
-          "grade_rank": 20,
-          "_class_size": 39
+          "grade_rank": 82,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "جهاد بن أحمد بن خميس سالم اليوسفي",
@@ -5524,8 +5625,9 @@
           "max_total": 1000,
           "percentage": 84.4,
           "class_rank": 21,
-          "grade_rank": 21,
-          "_class_size": 39
+          "grade_rank": 84,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "الأزهر بن محمد بن ناصر سالم المحرمي",
@@ -5578,8 +5680,9 @@
           "max_total": 1000,
           "percentage": 83.9,
           "class_rank": 22,
-          "grade_rank": 22,
-          "_class_size": 39
+          "grade_rank": 87,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "حمدان بن فؤاد بن سليمان حميد الرمضاني",
@@ -5632,8 +5735,9 @@
           "max_total": 1000,
           "percentage": 83.5,
           "class_rank": 23,
-          "grade_rank": 23,
-          "_class_size": 39
+          "grade_rank": 90,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "منذر بن موسى بن سعيد سيف السيابي",
@@ -5686,8 +5790,9 @@
           "max_total": 1000,
           "percentage": 82.7,
           "class_rank": 24,
-          "grade_rank": 24,
-          "_class_size": 39
+          "grade_rank": 94,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "تميم بن محمد بن سعيد سالم البراشدي",
@@ -5740,8 +5845,9 @@
           "max_total": 1000,
           "percentage": 81.7,
           "class_rank": 25,
-          "grade_rank": 25,
-          "_class_size": 39
+          "grade_rank": 97,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن عماد بن مبارك شمبيه البلوشي",
@@ -5794,8 +5900,9 @@
           "max_total": 1000,
           "percentage": 80.6,
           "class_rank": 26,
-          "grade_rank": 26,
-          "_class_size": 39
+          "grade_rank": 101,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "سالم بن خالد بن سالم حميد الجابري",
@@ -5848,8 +5955,9 @@
           "max_total": 1000,
           "percentage": 80.0,
           "class_rank": 27,
-          "grade_rank": 27,
-          "_class_size": 39
+          "grade_rank": 103,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "إدريس بن محمد بن خميس مبارك المهيري",
@@ -5902,8 +6010,9 @@
           "max_total": 1000,
           "percentage": 78.6,
           "class_rank": 28,
-          "grade_rank": 28,
-          "_class_size": 39
+          "grade_rank": 109,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن علي بن سيف سالم الشبلي",
@@ -5956,8 +6065,9 @@
           "max_total": 1000,
           "percentage": 77.1,
           "class_rank": 29,
-          "grade_rank": 29,
-          "_class_size": 39
+          "grade_rank": 113,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "خالد بن يوسف بن حمد خلفان اليحيائي",
@@ -6010,8 +6120,9 @@
           "max_total": 1000,
           "percentage": 75.9,
           "class_rank": 30,
-          "grade_rank": 30,
-          "_class_size": 39
+          "grade_rank": 116,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "الخليل بن أحمد بن حبيب خلفان الفوري",
@@ -6064,8 +6175,9 @@
           "max_total": 1000,
           "percentage": 75.6,
           "class_rank": 31,
-          "grade_rank": 31,
-          "_class_size": 39
+          "grade_rank": 119,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "عبدالله بن سعيد بن حمد سعيد المحرمي",
@@ -6118,8 +6230,9 @@
           "max_total": 1000,
           "percentage": 74.9,
           "class_rank": 32,
-          "grade_rank": 32,
-          "_class_size": 39
+          "grade_rank": 122,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "القاسم بن سالم بن شغيل سويد الجابري",
@@ -6172,8 +6285,9 @@
           "max_total": 1000,
           "percentage": 71.1,
           "class_rank": 33,
-          "grade_rank": 33,
-          "_class_size": 39
+          "grade_rank": 133,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "جود محمد  قارصلي",
@@ -6226,8 +6340,9 @@
           "max_total": 1000,
           "percentage": 70.0,
           "class_rank": 34,
-          "grade_rank": 34,
-          "_class_size": 39
+          "grade_rank": 136,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "مدثر خان  رايت",
@@ -6280,8 +6395,9 @@
           "max_total": 1000,
           "percentage": 69.7,
           "class_rank": 35,
-          "grade_rank": 35,
-          "_class_size": 39
+          "grade_rank": 138,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "حميد بن أسعد بن حميد ساعد المسلمي",
@@ -6334,8 +6450,9 @@
           "max_total": 1000,
           "percentage": 69.4,
           "class_rank": 36,
-          "grade_rank": 36,
-          "_class_size": 39
+          "grade_rank": 139,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "الأزهر بن محمد بن سليمان ناصر البوسعيدي",
@@ -6388,8 +6505,9 @@
           "max_total": 1000,
           "percentage": 66.7,
           "class_rank": 37,
-          "grade_rank": 37,
-          "_class_size": 39
+          "grade_rank": 144,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "بلعرب بن سلطان بن سيف خميس الفوري",
@@ -6442,8 +6560,9 @@
           "max_total": 1000,
           "percentage": 64.0,
           "class_rank": 38,
-          "grade_rank": 38,
-          "_class_size": 39
+          "grade_rank": 153,
+          "_class_size": 39,
+          "_grade_size": 160
         },
         {
           "name": "عمر محمد سعيد حماده",
@@ -6496,8 +6615,9 @@
           "max_total": 1000,
           "percentage": 62.9,
           "class_rank": 39,
-          "grade_rank": 39,
-          "_class_size": 39
+          "grade_rank": 154,
+          "_class_size": 39,
+          "_grade_size": 160
         }
       ]
     },
@@ -6556,8 +6676,9 @@
           "max_total": 1000,
           "percentage": 99.3,
           "class_rank": 1,
-          "grade_rank": 1,
-          "_class_size": 40
+          "grade_rank": 2,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "سالم بن أحمد بن سالم فاضل الفوري",
@@ -6610,8 +6731,9 @@
           "max_total": 1000,
           "percentage": 97.9,
           "class_rank": 2,
-          "grade_rank": 2,
-          "_class_size": 40
+          "grade_rank": 9,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "معاذ بن محمود بن عبدالله محمد الصقري",
@@ -6664,8 +6786,9 @@
           "max_total": 1000,
           "percentage": 97.8,
           "class_rank": 3,
-          "grade_rank": 3,
-          "_class_size": 40
+          "grade_rank": 10,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "لؤي احمد  محمد",
@@ -6718,8 +6841,9 @@
           "max_total": 1000,
           "percentage": 97.4,
           "class_rank": 4,
-          "grade_rank": 4,
-          "_class_size": 40
+          "grade_rank": 11,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "وسام بن فهد بن منصور سالم السالمي",
@@ -6772,8 +6896,9 @@
           "max_total": 1000,
           "percentage": 97.0,
           "class_rank": 5,
-          "grade_rank": 5,
-          "_class_size": 40
+          "grade_rank": 13,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "اليزن بن أحمد بن خدادات محمود البلوشي",
@@ -6826,8 +6951,9 @@
           "max_total": 1000,
           "percentage": 96.2,
           "class_rank": 6,
-          "grade_rank": 6,
-          "_class_size": 40
+          "grade_rank": 19,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "شهاب بن أحمد بن حمود سالم الهنائي",
@@ -6880,8 +7006,9 @@
           "max_total": 1000,
           "percentage": 95.8,
           "class_rank": 7,
-          "grade_rank": 7,
-          "_class_size": 40
+          "grade_rank": 25,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "خطاب بن جواد بن وحيدبخش جان محمد  الهوتي",
@@ -6934,8 +7061,9 @@
           "max_total": 1000,
           "percentage": 95.5,
           "class_rank": 8,
-          "grade_rank": 8,
-          "_class_size": 40
+          "grade_rank": 27,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "عادل السيد عبدالهادى محمد درويش",
@@ -6988,8 +7116,9 @@
           "max_total": 1000,
           "percentage": 95.2,
           "class_rank": 9,
-          "grade_rank": 9,
-          "_class_size": 40
+          "grade_rank": 28,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "عز الدين احمد يسري جوهر محمد عبدالمعطي",
@@ -7042,8 +7171,9 @@
           "max_total": 1000,
           "percentage": 95.1,
           "class_rank": 10,
-          "grade_rank": 10,
-          "_class_size": 40
+          "grade_rank": 30,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن سعيد بن محمد سعيد الصباحي",
@@ -7096,8 +7226,9 @@
           "max_total": 1000,
           "percentage": 95.1,
           "class_rank": 11,
-          "grade_rank": 11,
-          "_class_size": 40
+          "grade_rank": 31,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "عبدالله بن خالد بن عبدالله مبارك السناني",
@@ -7150,8 +7281,9 @@
           "max_total": 1000,
           "percentage": 94.0,
           "class_rank": 12,
-          "grade_rank": 12,
-          "_class_size": 40
+          "grade_rank": 42,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "سعد بن معاذ بن سعيد محمد الراشدي",
@@ -7204,8 +7336,9 @@
           "max_total": 1000,
           "percentage": 93.9,
           "class_rank": 13,
-          "grade_rank": 13,
-          "_class_size": 40
+          "grade_rank": 43,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "سلطان بن هلال بن عبدالله حميد المعمري",
@@ -7258,8 +7391,9 @@
           "max_total": 1000,
           "percentage": 93.8,
           "class_rank": 14,
-          "grade_rank": 14,
-          "_class_size": 40
+          "grade_rank": 44,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "سعيد بن ماجد بن سعيد علي الحضرمي",
@@ -7312,8 +7446,9 @@
           "max_total": 1000,
           "percentage": 90.4,
           "class_rank": 15,
-          "grade_rank": 15,
-          "_class_size": 40
+          "grade_rank": 60,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن عبدالرحمن بن أحمد محمد الصقري",
@@ -7366,8 +7501,9 @@
           "max_total": 1000,
           "percentage": 90.4,
           "class_rank": 16,
-          "grade_rank": 16,
-          "_class_size": 40
+          "grade_rank": 61,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "جبر بن جابر بن سعيد عبدالله الجابري",
@@ -7420,8 +7556,9 @@
           "max_total": 1000,
           "percentage": 89.9,
           "class_rank": 17,
-          "grade_rank": 17,
-          "_class_size": 40
+          "grade_rank": 63,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن مبارك بن خلفان سالم القيضي",
@@ -7474,8 +7611,9 @@
           "max_total": 1000,
           "percentage": 89.5,
           "class_rank": 18,
-          "grade_rank": 18,
-          "_class_size": 40
+          "grade_rank": 65,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "عمر بن ابراهيم بن عبدالله سيف الجابري",
@@ -7528,8 +7666,9 @@
           "max_total": 1000,
           "percentage": 87.0,
           "class_rank": 19,
-          "grade_rank": 19,
-          "_class_size": 40
+          "grade_rank": 76,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "لقمان بن قيس بن عبدالعزيز حاجي البلوشي",
@@ -7582,8 +7721,9 @@
           "max_total": 1000,
           "percentage": 86.8,
           "class_rank": 20,
-          "grade_rank": 20,
-          "_class_size": 40
+          "grade_rank": 77,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "معتز بن سعيد بن مبارك سليمان المحرمي",
@@ -7636,8 +7776,9 @@
           "max_total": 1000,
           "percentage": 85.5,
           "class_rank": 21,
-          "grade_rank": 21,
-          "_class_size": 40
+          "grade_rank": 83,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "طلال بن طاهر بن سعود حمد الهنائي",
@@ -7690,8 +7831,9 @@
           "max_total": 1000,
           "percentage": 84.4,
           "class_rank": 22,
-          "grade_rank": 22,
-          "_class_size": 40
+          "grade_rank": 85,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "شهاب بن اسعد بن مبارك خميس الهنائي",
@@ -7744,8 +7886,9 @@
           "max_total": 1000,
           "percentage": 83.2,
           "class_rank": 23,
-          "grade_rank": 23,
-          "_class_size": 40
+          "grade_rank": 91,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "سعد بن جميل بن محمد حمد المحرزى",
@@ -7798,8 +7941,9 @@
           "max_total": 1000,
           "percentage": 81.4,
           "class_rank": 24,
-          "grade_rank": 24,
-          "_class_size": 40
+          "grade_rank": 98,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "تركي بن زكي بن محمد مبارك المحرمي",
@@ -7852,8 +7996,9 @@
           "max_total": 1000,
           "percentage": 80.5,
           "class_rank": 25,
-          "grade_rank": 25,
-          "_class_size": 40
+          "grade_rank": 102,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن طاهر بن يحيى حمد اليوسفي",
@@ -7906,8 +8051,9 @@
           "max_total": 1000,
           "percentage": 79.3,
           "class_rank": 26,
-          "grade_rank": 26,
-          "_class_size": 40
+          "grade_rank": 106,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "حمد بن أحمد بن حمد علي العامري",
@@ -7960,8 +8106,9 @@
           "max_total": 1000,
           "percentage": 78.9,
           "class_rank": 27,
-          "grade_rank": 27,
-          "_class_size": 40
+          "grade_rank": 108,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحمن بن صخر بن سعود محمد السيابي",
@@ -8014,8 +8161,9 @@
           "max_total": 1000,
           "percentage": 77.3,
           "class_rank": 28,
-          "grade_rank": 28,
-          "_class_size": 40
+          "grade_rank": 112,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "الأزهر بن سلام بن سالم سليّم الحارثي",
@@ -8068,8 +8216,9 @@
           "max_total": 1000,
           "percentage": 76.9,
           "class_rank": 29,
-          "grade_rank": 29,
-          "_class_size": 40
+          "grade_rank": 114,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "أنس بن حسن بن علي خلفان الفوري",
@@ -8122,8 +8271,9 @@
           "max_total": 1000,
           "percentage": 75.0,
           "class_rank": 30,
-          "grade_rank": 30,
-          "_class_size": 40
+          "grade_rank": 121,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "فهد بن محمد بن مبارك سالم المنذري",
@@ -8176,8 +8326,9 @@
           "max_total": 1000,
           "percentage": 74.5,
           "class_rank": 31,
-          "grade_rank": 31,
-          "_class_size": 40
+          "grade_rank": 124,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "عبدالله بن يوسف بن عبدالله شنون العرجي",
@@ -8230,8 +8381,9 @@
           "max_total": 1000,
           "percentage": 72.7,
           "class_rank": 32,
-          "grade_rank": 32,
-          "_class_size": 40
+          "grade_rank": 129,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "عبدالرحيم بن فهد بن عبدالرحيم حاجي البلوشي",
@@ -8284,8 +8436,9 @@
           "max_total": 1000,
           "percentage": 71.4,
           "class_rank": 33,
-          "grade_rank": 33,
-          "_class_size": 40
+          "grade_rank": 132,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "سعيد بن علي بن سعيد راشد الهنائي",
@@ -8338,8 +8491,9 @@
           "max_total": 1000,
           "percentage": 67.6,
           "class_rank": 34,
-          "grade_rank": 34,
-          "_class_size": 40
+          "grade_rank": 141,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "غيث بن جمعه بن محمد خميس الهنائي",
@@ -8392,8 +8546,9 @@
           "max_total": 1000,
           "percentage": 65.9,
           "class_rank": 35,
-          "grade_rank": 35,
-          "_class_size": 40
+          "grade_rank": 151,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "فايز أحمد  قاسم",
@@ -8446,8 +8601,9 @@
           "max_total": 1000,
           "percentage": 62.9,
           "class_rank": 36,
-          "grade_rank": 36,
-          "_class_size": 40
+          "grade_rank": 155,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "مبين بن محمد بن منين سليمان السيابي",
@@ -8500,8 +8656,9 @@
           "max_total": 1000,
           "percentage": 62.6,
           "class_rank": 37,
-          "grade_rank": 37,
-          "_class_size": 40
+          "grade_rank": 156,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "محمد بن صالح بن علي صالح الحسني",
@@ -8554,8 +8711,9 @@
           "max_total": 1000,
           "percentage": 59.7,
           "class_rank": 38,
-          "grade_rank": 38,
-          "_class_size": 40
+          "grade_rank": 158,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "عمار بن سالم بن خميس حمد اليحيائي",
@@ -8608,8 +8766,9 @@
           "max_total": 1000,
           "percentage": 54.2,
           "class_rank": 39,
-          "grade_rank": 39,
-          "_class_size": 40
+          "grade_rank": 159,
+          "_class_size": 40,
+          "_grade_size": 160
         },
         {
           "name": "محمد يوسف علم",
@@ -8662,8 +8821,9 @@
           "max_total": 900,
           "percentage": 60.1,
           "class_rank": 40,
-          "grade_rank": 40,
-          "_class_size": 40
+          "grade_rank": 160,
+          "_class_size": 40,
+          "_grade_size": 160
         }
       ]
     },
@@ -8723,7 +8883,8 @@
           "percentage": 99.9,
           "class_rank": 1,
           "grade_rank": 1,
-          "_class_size": 41
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "المهلب بن فهد بن ناصر محمد البوسعيدي",
@@ -8776,8 +8937,9 @@
           "max_total": 1000,
           "percentage": 96.5,
           "class_rank": 2,
-          "grade_rank": 2,
-          "_class_size": 41
+          "grade_rank": 12,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "أحمد بن ماجد بن محفوظ منصور السيابي",
@@ -8830,8 +8992,9 @@
           "max_total": 1000,
           "percentage": 95.0,
           "class_rank": 3,
-          "grade_rank": 3,
-          "_class_size": 41
+          "grade_rank": 16,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "اياد بن صقر بن علي عبدالله الصقري",
@@ -8884,8 +9047,9 @@
           "max_total": 1000,
           "percentage": 95.0,
           "class_rank": 4,
-          "grade_rank": 4,
-          "_class_size": 41
+          "grade_rank": 17,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالرحمن بن محمد بن فريش محمد اليحيائي",
@@ -8938,8 +9102,9 @@
           "max_total": 1000,
           "percentage": 94.4,
           "class_rank": 5,
-          "grade_rank": 5,
-          "_class_size": 41
+          "grade_rank": 21,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "حمود بن ماجد بن حمود علي الراشدي",
@@ -8992,8 +9157,9 @@
           "max_total": 1000,
           "percentage": 94.1,
           "class_rank": 6,
-          "grade_rank": 6,
-          "_class_size": 41
+          "grade_rank": 23,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "سيف بن سعيد بن سيف سعيد السيابي",
@@ -9046,8 +9212,9 @@
           "max_total": 1000,
           "percentage": 94.1,
           "class_rank": 7,
-          "grade_rank": 7,
-          "_class_size": 41
+          "grade_rank": 24,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن خالد بن جمعه حاجي البلوشي",
@@ -9100,8 +9267,9 @@
           "max_total": 1000,
           "percentage": 93.4,
           "class_rank": 8,
-          "grade_rank": 8,
-          "_class_size": 41
+          "grade_rank": 30,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "اليمان بن طالب بن خميس طالب البلوشي",
@@ -9154,8 +9322,9 @@
           "max_total": 1000,
           "percentage": 93.0,
           "class_rank": 9,
-          "grade_rank": 9,
-          "_class_size": 41
+          "grade_rank": 34,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "فهر بن طلال بن سالم فاضل البريكي",
@@ -9208,8 +9377,9 @@
           "max_total": 1000,
           "percentage": 92.3,
           "class_rank": 10,
-          "grade_rank": 10,
-          "_class_size": 41
+          "grade_rank": 40,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالرحمن بن حسن بن عبدالله خلفان الحديدي",
@@ -9262,8 +9432,9 @@
           "max_total": 1000,
           "percentage": 92.1,
           "class_rank": 11,
-          "grade_rank": 11,
-          "_class_size": 41
+          "grade_rank": 41,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن أحمد بن عبدالله مبارك الضامري",
@@ -9316,8 +9487,9 @@
           "max_total": 1000,
           "percentage": 90.5,
           "class_rank": 12,
-          "grade_rank": 12,
-          "_class_size": 41
+          "grade_rank": 54,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "راشد بن نصر بن راشد محمد الرواحي",
@@ -9370,8 +9542,9 @@
           "max_total": 1000,
           "percentage": 89.8,
           "class_rank": 13,
-          "grade_rank": 13,
-          "_class_size": 41
+          "grade_rank": 62,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عباد بن أحمد بن حبيب شمبيه المسافر",
@@ -9424,8 +9597,9 @@
           "max_total": 1000,
           "percentage": 89.0,
           "class_rank": 14,
-          "grade_rank": 14,
-          "_class_size": 41
+          "grade_rank": 68,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "يحيى بن علي بن ناصر سيف الصبحي",
@@ -9478,8 +9652,9 @@
           "max_total": 1000,
           "percentage": 88.9,
           "class_rank": 15,
-          "grade_rank": 15,
-          "_class_size": 41
+          "grade_rank": 69,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "فياض بن خالد بن عباس علي البلوشي",
@@ -9532,8 +9707,9 @@
           "max_total": 1000,
           "percentage": 88.6,
           "class_rank": 16,
-          "grade_rank": 16,
-          "_class_size": 41
+          "grade_rank": 72,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن صالح بن منصور خلفان السيابي",
@@ -9586,8 +9762,9 @@
           "max_total": 1000,
           "percentage": 88.4,
           "class_rank": 17,
-          "grade_rank": 17,
-          "_class_size": 41
+          "grade_rank": 75,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "يحيى بن ايمن بن يحيى خميس الخربوشي",
@@ -9640,8 +9817,9 @@
           "max_total": 1000,
           "percentage": 87.9,
           "class_rank": 18,
-          "grade_rank": 18,
-          "_class_size": 41
+          "grade_rank": 78,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالرحمن بن حسام بن حمد مبارك المحرمي",
@@ -9694,8 +9872,9 @@
           "max_total": 1000,
           "percentage": 87.7,
           "class_rank": 19,
-          "grade_rank": 19,
-          "_class_size": 41
+          "grade_rank": 80,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن سالم بن خلفان سالم الجابري",
@@ -9748,8 +9927,9 @@
           "max_total": 1000,
           "percentage": 87.7,
           "class_rank": 20,
-          "grade_rank": 20,
-          "_class_size": 41
+          "grade_rank": 81,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن أحمد بن سليمان حمود اليحمدي",
@@ -9802,8 +9982,9 @@
           "max_total": 1000,
           "percentage": 87.6,
           "class_rank": 21,
-          "grade_rank": 21,
-          "_class_size": 41
+          "grade_rank": 82,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالعزيز بن أحمد بن سعيد سيف السيابي",
@@ -9856,8 +10037,9 @@
           "max_total": 1000,
           "percentage": 87.3,
           "class_rank": 22,
-          "grade_rank": 22,
-          "_class_size": 41
+          "grade_rank": 86,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "وسام بن وليد بن سليمان خلفان العمري",
@@ -9910,8 +10092,9 @@
           "max_total": 1000,
           "percentage": 87.1,
           "class_rank": 23,
-          "grade_rank": 23,
-          "_class_size": 41
+          "grade_rank": 88,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن يوسف بن سالم صالح الحديدي",
@@ -9964,8 +10147,9 @@
           "max_total": 1000,
           "percentage": 86.1,
           "class_rank": 24,
-          "grade_rank": 24,
-          "_class_size": 41
+          "grade_rank": 93,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "منيف خالد عامر بن منيف",
@@ -10018,8 +10202,9 @@
           "max_total": 1000,
           "percentage": 85.8,
           "class_rank": 25,
-          "grade_rank": 25,
-          "_class_size": 41
+          "grade_rank": 95,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "أحمد بن علاء بن حمود ناصر اليوسفي",
@@ -10072,8 +10257,9 @@
           "max_total": 1000,
           "percentage": 84.8,
           "class_rank": 26,
-          "grade_rank": 26,
-          "_class_size": 41
+          "grade_rank": 102,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "أحمد بن ماجد بن خميس صالح الحديدي",
@@ -10126,8 +10312,9 @@
           "max_total": 1000,
           "percentage": 84.4,
           "class_rank": 27,
-          "grade_rank": 27,
-          "_class_size": 41
+          "grade_rank": 104,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "بدر بن فؤاد بن سليمان حميد الرمضاني",
@@ -10180,8 +10367,9 @@
           "max_total": 1000,
           "percentage": 83.7,
           "class_rank": 28,
-          "grade_rank": 28,
-          "_class_size": 41
+          "grade_rank": 106,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "لقمان بن سالم بن حميد محمد اليحيائي",
@@ -10234,8 +10422,9 @@
           "max_total": 1000,
           "percentage": 83.3,
           "class_rank": 29,
-          "grade_rank": 29,
-          "_class_size": 41
+          "grade_rank": 107,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله محمد  حمشو",
@@ -10288,8 +10477,9 @@
           "max_total": 1000,
           "percentage": 83.2,
           "class_rank": 30,
-          "grade_rank": 30,
-          "_class_size": 41
+          "grade_rank": 109,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "اليزن بن ادريس بن محمد عبدالله الفورى",
@@ -10342,8 +10532,9 @@
           "max_total": 1000,
           "percentage": 82.3,
           "class_rank": 31,
-          "grade_rank": 31,
-          "_class_size": 41
+          "grade_rank": 111,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "خليل بن ابراهيم بن سعيد مفتاح المحرمي",
@@ -10396,8 +10587,9 @@
           "max_total": 1000,
           "percentage": 81.3,
           "class_rank": 32,
-          "grade_rank": 32,
-          "_class_size": 41
+          "grade_rank": 112,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "مصطفى بن سليمان بن سالم راشد الحارثي",
@@ -10450,8 +10642,9 @@
           "max_total": 1000,
           "percentage": 81.1,
           "class_rank": 33,
-          "grade_rank": 33,
-          "_class_size": 41
+          "grade_rank": 113,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "أحمد بن بدر بن سيف سالم السيابي",
@@ -10504,8 +10697,9 @@
           "max_total": 1000,
           "percentage": 77.9,
           "class_rank": 34,
-          "grade_rank": 34,
-          "_class_size": 41
+          "grade_rank": 121,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "مشاري بن أحمد بن سعيد حمود الحبسي",
@@ -10558,8 +10752,9 @@
           "max_total": 1000,
           "percentage": 77.5,
           "class_rank": 35,
-          "grade_rank": 35,
-          "_class_size": 41
+          "grade_rank": 123,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "العز بن طارق بن عبدالمجيد سعيد البلوشي",
@@ -10612,8 +10807,9 @@
           "max_total": 1000,
           "percentage": 76.9,
           "class_rank": 36,
-          "grade_rank": 36,
-          "_class_size": 41
+          "grade_rank": 125,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عمر بن سليمان بن سالم سعود الحارثي",
@@ -10666,8 +10862,9 @@
           "max_total": 1000,
           "percentage": 76.2,
           "class_rank": 37,
-          "grade_rank": 37,
-          "_class_size": 41
+          "grade_rank": 128,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "تيمور بن مازن بن حمود حمدان الهنائي",
@@ -10720,8 +10917,9 @@
           "max_total": 1000,
           "percentage": 75.9,
           "class_rank": 38,
-          "grade_rank": 38,
-          "_class_size": 41
+          "grade_rank": 129,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد احمد  حماده",
@@ -10774,8 +10972,9 @@
           "max_total": 1000,
           "percentage": 74.6,
           "class_rank": 39,
-          "grade_rank": 39,
-          "_class_size": 41
+          "grade_rank": 136,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "مناف بن ناصر بن حمود سيف الحضرمي",
@@ -10828,8 +11027,9 @@
           "max_total": 1000,
           "percentage": 70.7,
           "class_rank": 40,
-          "grade_rank": 40,
-          "_class_size": 41
+          "grade_rank": 149,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن خميس بن بخيت خميس الخميسي",
@@ -10882,8 +11082,9 @@
           "max_total": 1000,
           "percentage": 69.1,
           "class_rank": 41,
-          "grade_rank": 41,
-          "_class_size": 41
+          "grade_rank": 153,
+          "_class_size": 41,
+          "_grade_size": 162
         }
       ]
     },
@@ -10942,8 +11143,9 @@
           "max_total": 1000,
           "percentage": 98.7,
           "class_rank": 1,
-          "grade_rank": 1,
-          "_class_size": 40
+          "grade_rank": 3,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "طه محمود طه عبدالباقي شحاته",
@@ -10996,8 +11198,9 @@
           "max_total": 1000,
           "percentage": 98.5,
           "class_rank": 2,
-          "grade_rank": 2,
-          "_class_size": 40
+          "grade_rank": 4,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "سلطان بن نواف بن محمد خميس الدرعي",
@@ -11050,8 +11253,9 @@
           "max_total": 1000,
           "percentage": 97.2,
           "class_rank": 3,
-          "grade_rank": 3,
-          "_class_size": 40
+          "grade_rank": 7,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "خالد بن طاهر بن خميس سعيد العميري",
@@ -11104,8 +11308,9 @@
           "max_total": 1000,
           "percentage": 96.5,
           "class_rank": 4,
-          "grade_rank": 4,
-          "_class_size": 40
+          "grade_rank": 13,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن أيوب بن سعيد سالم الشعيلي",
@@ -11158,8 +11363,9 @@
           "max_total": 1000,
           "percentage": 95.4,
           "class_rank": 5,
-          "grade_rank": 5,
-          "_class_size": 40
+          "grade_rank": 14,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "إبراهيم بن اسماعيل بن سعيد مبارك اليوسفي",
@@ -11212,8 +11418,9 @@
           "max_total": 1000,
           "percentage": 95.1,
           "class_rank": 6,
-          "grade_rank": 6,
-          "_class_size": 40
+          "grade_rank": 15,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "يامن بن يوسف بن خلفان سالم القيضي",
@@ -11266,8 +11473,9 @@
           "max_total": 1000,
           "percentage": 95.0,
           "class_rank": 7,
-          "grade_rank": 7,
-          "_class_size": 40
+          "grade_rank": 18,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عمر بن عبدالعزيز بن زهران محمد الكندي",
@@ -11320,8 +11528,9 @@
           "max_total": 1000,
           "percentage": 93.8,
           "class_rank": 8,
-          "grade_rank": 8,
-          "_class_size": 40
+          "grade_rank": 25,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن هاشم بن اسحاق حمدان اليوسفي",
@@ -11374,8 +11583,9 @@
           "max_total": 1000,
           "percentage": 93.5,
           "class_rank": 9,
-          "grade_rank": 9,
-          "_class_size": 40
+          "grade_rank": 27,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "صالح بن سلمان بن صالح شمبيه البلوشي",
@@ -11428,8 +11638,9 @@
           "max_total": 1000,
           "percentage": 93.4,
           "class_rank": 10,
-          "grade_rank": 10,
-          "_class_size": 40
+          "grade_rank": 31,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن سيف بن عبدالله سعيد الهنائي",
@@ -11482,8 +11693,9 @@
           "max_total": 1000,
           "percentage": 93.1,
           "class_rank": 11,
-          "grade_rank": 11,
-          "_class_size": 40
+          "grade_rank": 33,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "جميل بن عبدالله بن جميل سعيد الرحبي",
@@ -11536,8 +11748,9 @@
           "max_total": 1000,
           "percentage": 92.5,
           "class_rank": 12,
-          "grade_rank": 12,
-          "_class_size": 40
+          "grade_rank": 37,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عمر بن سيف بن ناصر سليمان المعولي",
@@ -11590,8 +11803,9 @@
           "max_total": 1000,
           "percentage": 92.1,
           "class_rank": 13,
-          "grade_rank": 13,
-          "_class_size": 40
+          "grade_rank": 42,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "انس بن ابراهيم بن درويش محمد اليحيائي",
@@ -11644,8 +11858,9 @@
           "max_total": 1000,
           "percentage": 92.0,
           "class_rank": 14,
-          "grade_rank": 14,
-          "_class_size": 40
+          "grade_rank": 44,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "زيد بن اسحاق بن سعيد سيف السيابي",
@@ -11698,8 +11913,9 @@
           "max_total": 1000,
           "percentage": 91.9,
           "class_rank": 15,
-          "grade_rank": 15,
-          "_class_size": 40
+          "grade_rank": 46,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن مدين بن محمد داود اليوسفي",
@@ -11752,8 +11968,9 @@
           "max_total": 1000,
           "percentage": 91.3,
           "class_rank": 16,
-          "grade_rank": 16,
-          "_class_size": 40
+          "grade_rank": 47,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "حميد بن ماجد بن حميد محمد اليحيائي",
@@ -11806,8 +12023,9 @@
           "max_total": 1000,
           "percentage": 91.0,
           "class_rank": 17,
-          "grade_rank": 17,
-          "_class_size": 40
+          "grade_rank": 48,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "أنس بن أحمد بن محمد عبدالرحمن الزدجالي",
@@ -11860,8 +12078,9 @@
           "max_total": 1000,
           "percentage": 90.8,
           "class_rank": 18,
-          "grade_rank": 18,
-          "_class_size": 40
+          "grade_rank": 49,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "حمزه بن نبيل بن فقير محمود البلوشي",
@@ -11914,8 +12133,9 @@
           "max_total": 1000,
           "percentage": 90.2,
           "class_rank": 19,
-          "grade_rank": 19,
-          "_class_size": 40
+          "grade_rank": 58,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "الوليد بن خالد بن مسلم ثاني الحديدي",
@@ -11968,8 +12188,9 @@
           "max_total": 1000,
           "percentage": 89.9,
           "class_rank": 20,
-          "grade_rank": 20,
-          "_class_size": 40
+          "grade_rank": 60,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن عبدالمجيد بن عبدالله خميس المبسلي",
@@ -12022,8 +12243,9 @@
           "max_total": 1000,
           "percentage": 88.5,
           "class_rank": 21,
-          "grade_rank": 21,
-          "_class_size": 40
+          "grade_rank": 73,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "أوس بن هود بن خميس جلال البلوشي",
@@ -12076,8 +12298,9 @@
           "max_total": 1000,
           "percentage": 87.6,
           "class_rank": 22,
-          "grade_rank": 22,
-          "_class_size": 40
+          "grade_rank": 83,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "راكان بن سمير بن سليمان منين السيابي",
@@ -12130,8 +12353,9 @@
           "max_total": 1000,
           "percentage": 87.5,
           "class_rank": 23,
-          "grade_rank": 23,
-          "_class_size": 40
+          "grade_rank": 84,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "صقر بن زاهر بن على احمد السنيدى",
@@ -12184,8 +12408,9 @@
           "max_total": 1000,
           "percentage": 87.3,
           "class_rank": 24,
-          "grade_rank": 24,
-          "_class_size": 40
+          "grade_rank": 87,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "آدم بن محمد بن أحمد خليل الفارسي",
@@ -12238,8 +12463,9 @@
           "max_total": 1000,
           "percentage": 86.9,
           "class_rank": 25,
-          "grade_rank": 25,
-          "_class_size": 40
+          "grade_rank": 89,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "مؤثر بن موسى بن سعيد سيف السيابي",
@@ -12292,8 +12518,9 @@
           "max_total": 1000,
           "percentage": 86.5,
           "class_rank": 26,
-          "grade_rank": 26,
-          "_class_size": 40
+          "grade_rank": 90,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "سعد بن أسعد بن سعيد سيف السيابي",
@@ -12346,8 +12573,9 @@
           "max_total": 1000,
           "percentage": 86.4,
           "class_rank": 27,
-          "grade_rank": 27,
-          "_class_size": 40
+          "grade_rank": 92,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "فهر بن عمار بن جمعه جميّل",
@@ -12400,8 +12628,9 @@
           "max_total": 1000,
           "percentage": 86.1,
           "class_rank": 28,
-          "grade_rank": 28,
-          "_class_size": 40
+          "grade_rank": 94,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "سالم بن بدر بن سالم محمد آل بوسعيد",
@@ -12454,8 +12683,9 @@
           "max_total": 1000,
           "percentage": 85.4,
           "class_rank": 29,
-          "grade_rank": 29,
-          "_class_size": 40
+          "grade_rank": 98,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "ناصر بن سيف بن ناصر سيف اليعربي",
@@ -12508,8 +12738,9 @@
           "max_total": 1000,
           "percentage": 85.3,
           "class_rank": 30,
-          "grade_rank": 30,
-          "_class_size": 40
+          "grade_rank": 99,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "يوسف بن مسلم بن خميس مسلم الكندي",
@@ -12562,8 +12793,9 @@
           "max_total": 1000,
           "percentage": 84.8,
           "class_rank": 31,
-          "grade_rank": 31,
-          "_class_size": 40
+          "grade_rank": 103,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "معاذ بن سمير بن صالح عنبر السعدي",
@@ -12616,8 +12848,9 @@
           "max_total": 1000,
           "percentage": 84.1,
           "class_rank": 32,
-          "grade_rank": 32,
-          "_class_size": 40
+          "grade_rank": 105,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "بدر بن موسى بن أحمد محمد الفوري",
@@ -12670,8 +12903,9 @@
           "max_total": 1000,
           "percentage": 79.6,
           "class_rank": 33,
-          "grade_rank": 33,
-          "_class_size": 40
+          "grade_rank": 117,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "بدر بن هاشم بن موسى محمد الفارسي",
@@ -12724,8 +12958,9 @@
           "max_total": 1000,
           "percentage": 79.1,
           "class_rank": 34,
-          "grade_rank": 34,
-          "_class_size": 40
+          "grade_rank": 119,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عمر بن حمود بن محمد سيف الحضرمي",
@@ -12778,8 +13013,9 @@
           "max_total": 1000,
           "percentage": 76.6,
           "class_rank": 35,
-          "grade_rank": 35,
-          "_class_size": 40
+          "grade_rank": 126,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "أحمد بن عبدالرحمن بن أحمد محمد الصقري",
@@ -12832,8 +13068,9 @@
           "max_total": 1000,
           "percentage": 75.2,
           "class_rank": 36,
-          "grade_rank": 36,
-          "_class_size": 40
+          "grade_rank": 133,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "حمزة بن ابراهيم بن خلفان مبارك المحرمي",
@@ -12886,8 +13123,9 @@
           "max_total": 1000,
           "percentage": 73.3,
           "class_rank": 37,
-          "grade_rank": 37,
-          "_class_size": 40
+          "grade_rank": 141,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "أوّاب بن ناصر بن مال الله حمدان العمري",
@@ -12940,8 +13178,9 @@
           "max_total": 1000,
           "percentage": 73.1,
           "class_rank": 38,
-          "grade_rank": 38,
-          "_class_size": 40
+          "grade_rank": 142,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "سعود بن صخر بن سعود محمد السيابي",
@@ -12994,8 +13233,9 @@
           "max_total": 1000,
           "percentage": 72.3,
           "class_rank": 39,
-          "grade_rank": 39,
-          "_class_size": 40
+          "grade_rank": 143,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "صهيب بن حمود بن خلفان حمود القاسمي",
@@ -13048,8 +13288,9 @@
           "max_total": 1000,
           "percentage": 70.2,
           "class_rank": 40,
-          "grade_rank": 40,
-          "_class_size": 40
+          "grade_rank": 151,
+          "_class_size": 40,
+          "_grade_size": 162
         }
       ]
     },
@@ -13108,8 +13349,9 @@
           "max_total": 1000,
           "percentage": 98.2,
           "class_rank": 1,
-          "grade_rank": 1,
-          "_class_size": 40
+          "grade_rank": 5,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": " احمد سليم فؤاد سليم خاطر",
@@ -13162,8 +13404,9 @@
           "max_total": 1000,
           "percentage": 97.1,
           "class_rank": 2,
-          "grade_rank": 2,
-          "_class_size": 40
+          "grade_rank": 8,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "مؤيد بن هلال بن محمد سيف السيابي",
@@ -13216,8 +13459,9 @@
           "max_total": 1000,
           "percentage": 96.8,
           "class_rank": 3,
-          "grade_rank": 3,
-          "_class_size": 40
+          "grade_rank": 9,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "فارس بن سهيل بن عياد خميس الحسني",
@@ -13270,8 +13514,9 @@
           "max_total": 1000,
           "percentage": 93.6,
           "class_rank": 4,
-          "grade_rank": 4,
-          "_class_size": 40
+          "grade_rank": 26,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "أيهم بن حسام بن مبارك سفر البلوشي",
@@ -13324,8 +13569,9 @@
           "max_total": 1000,
           "percentage": 93.5,
           "class_rank": 5,
-          "grade_rank": 5,
-          "_class_size": 40
+          "grade_rank": 28,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "لؤي بن منير بن مبارك سفر البلوشي",
@@ -13378,8 +13624,9 @@
           "max_total": 1000,
           "percentage": 93.5,
           "class_rank": 6,
-          "grade_rank": 6,
-          "_class_size": 40
+          "grade_rank": 29,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "بسام بن يعرب بن حمد عبدالله الراشدي",
@@ -13432,8 +13679,9 @@
           "max_total": 1000,
           "percentage": 92.7,
           "class_rank": 7,
-          "grade_rank": 7,
-          "_class_size": 40
+          "grade_rank": 35,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "طارق بن نادر بن حمود سعيد اليحيائي",
@@ -13486,8 +13734,9 @@
           "max_total": 1000,
           "percentage": 92.6,
           "class_rank": 8,
-          "grade_rank": 8,
-          "_class_size": 40
+          "grade_rank": 36,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "ياسين بن ادريس بن طالب خميس اليوسفي",
@@ -13540,8 +13789,9 @@
           "max_total": 1000,
           "percentage": 92.5,
           "class_rank": 9,
-          "grade_rank": 9,
-          "_class_size": 40
+          "grade_rank": 38,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "الأيهم بن عادل بن حمد خلفان الفضيلي",
@@ -13594,8 +13844,9 @@
           "max_total": 1000,
           "percentage": 92.4,
           "class_rank": 10,
-          "grade_rank": 10,
-          "_class_size": 40
+          "grade_rank": 39,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "الأزهر بن سالم بن عبدالله خلفان الحوسني",
@@ -13648,8 +13899,9 @@
           "max_total": 1000,
           "percentage": 92.0,
           "class_rank": 11,
-          "grade_rank": 11,
-          "_class_size": 40
+          "grade_rank": 45,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن عمر بن محمد خلفان المحرمي",
@@ -13702,8 +13954,9 @@
           "max_total": 1000,
           "percentage": 90.7,
           "class_rank": 12,
-          "grade_rank": 12,
-          "_class_size": 40
+          "grade_rank": 50,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "أحمد بن يوسف بن حمد عبدالله الهنائي",
@@ -13756,8 +14009,9 @@
           "max_total": 1000,
           "percentage": 90.6,
           "class_rank": 13,
-          "grade_rank": 13,
-          "_class_size": 40
+          "grade_rank": 51,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "إياد بن عبدالحميد بن خميس طالب البلوشي",
@@ -13810,8 +14064,9 @@
           "max_total": 1000,
           "percentage": 90.6,
           "class_rank": 14,
-          "grade_rank": 14,
-          "_class_size": 40
+          "grade_rank": 52,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "مروان بن علي بن محمد علي اليوسفي",
@@ -13864,8 +14119,9 @@
           "max_total": 1000,
           "percentage": 90.6,
           "class_rank": 15,
-          "grade_rank": 15,
-          "_class_size": 40
+          "grade_rank": 53,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "الأزهر بن خميس بن خلفان خميس الحديدي",
@@ -13918,8 +14174,9 @@
           "max_total": 1000,
           "percentage": 90.3,
           "class_rank": 16,
-          "grade_rank": 16,
-          "_class_size": 40
+          "grade_rank": 56,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "سالم بن علي بن مصبح جميل البلوشي",
@@ -13972,8 +14229,9 @@
           "max_total": 1000,
           "percentage": 90.3,
           "class_rank": 17,
-          "grade_rank": 17,
-          "_class_size": 40
+          "grade_rank": 57,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "تيمور بن فيصل بن علي محمد البوسعيدي",
@@ -14026,8 +14284,9 @@
           "max_total": 1000,
           "percentage": 89.7,
           "class_rank": 18,
-          "grade_rank": 18,
-          "_class_size": 40
+          "grade_rank": 64,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عبدالملك بن سعيد بن ناصر ثاني الفوري",
@@ -14080,8 +14339,9 @@
           "max_total": 1000,
           "percentage": 89.3,
           "class_rank": 19,
-          "grade_rank": 19,
-          "_class_size": 40
+          "grade_rank": 65,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "البراء بن سليمان بن خميس علي الحوسني",
@@ -14134,8 +14394,9 @@
           "max_total": 1000,
           "percentage": 89.1,
           "class_rank": 20,
-          "grade_rank": 20,
-          "_class_size": 40
+          "grade_rank": 67,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عمر بن محمد بن خميس سالم اليوسفي",
@@ -14188,8 +14449,9 @@
           "max_total": 1000,
           "percentage": 88.7,
           "class_rank": 21,
-          "grade_rank": 21,
-          "_class_size": 40
+          "grade_rank": 71,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "اليمان بن المنذر بن عبدالله علي اليوسفي",
@@ -14242,8 +14504,9 @@
           "max_total": 1000,
           "percentage": 88.3,
           "class_rank": 22,
-          "grade_rank": 22,
-          "_class_size": 40
+          "grade_rank": 76,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عيسى بن فيصل بن يحيى أحمد الفوري",
@@ -14296,8 +14559,9 @@
           "max_total": 1000,
           "percentage": 88.3,
           "class_rank": 23,
-          "grade_rank": 23,
-          "_class_size": 40
+          "grade_rank": 77,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "علي بن حسين بن علي محمد الوضاحي",
@@ -14350,8 +14614,9 @@
           "max_total": 1000,
           "percentage": 87.4,
           "class_rank": 24,
-          "grade_rank": 24,
-          "_class_size": 40
+          "grade_rank": 85,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "حمزه بن زبير بن مراد يار محمد البلوشي",
@@ -14404,8 +14669,9 @@
           "max_total": 1000,
           "percentage": 85.7,
           "class_rank": 25,
-          "grade_rank": 25,
-          "_class_size": 40
+          "grade_rank": 96,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عيسى بن ابراهيم بن حبيب سعيد الرواحي",
@@ -14458,8 +14724,9 @@
           "max_total": 1000,
           "percentage": 85.7,
           "class_rank": 26,
-          "grade_rank": 26,
-          "_class_size": 40
+          "grade_rank": 97,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "غيث بن موسى بن محمد ناصر اليحيائي",
@@ -14512,8 +14779,9 @@
           "max_total": 1000,
           "percentage": 83.3,
           "class_rank": 27,
-          "grade_rank": 27,
-          "_class_size": 40
+          "grade_rank": 108,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "سالم بن عيسى بن سالم علي العمري",
@@ -14566,8 +14834,9 @@
           "max_total": 1000,
           "percentage": 82.4,
           "class_rank": 28,
-          "grade_rank": 28,
-          "_class_size": 40
+          "grade_rank": 110,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "المعتصم بن شبيب بن خميس حمود اليحيائي",
@@ -14620,8 +14889,9 @@
           "max_total": 1000,
           "percentage": 80.9,
           "class_rank": 29,
-          "grade_rank": 29,
-          "_class_size": 40
+          "grade_rank": 114,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "سالم احمد سالم بن عفي",
@@ -14674,8 +14944,9 @@
           "max_total": 1000,
           "percentage": 79.8,
           "class_rank": 30,
-          "grade_rank": 30,
-          "_class_size": 40
+          "grade_rank": 115,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "ناصر بن محمد بن ناصر سالم المحرمي",
@@ -14728,8 +14999,9 @@
           "max_total": 1000,
           "percentage": 78.2,
           "class_rank": 31,
-          "grade_rank": 31,
-          "_class_size": 40
+          "grade_rank": 120,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "حمزه داود  حاج",
@@ -14782,8 +15054,9 @@
           "max_total": 1000,
           "percentage": 77.6,
           "class_rank": 32,
-          "grade_rank": 32,
-          "_class_size": 40
+          "grade_rank": 122,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن مازن بن محمد ناصر اليحيائي",
@@ -14836,8 +15109,9 @@
           "max_total": 1000,
           "percentage": 77.3,
           "class_rank": 33,
-          "grade_rank": 33,
-          "_class_size": 40
+          "grade_rank": 124,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "رعد عبد العزيز حسين الحيدري",
@@ -14890,8 +15164,9 @@
           "max_total": 1000,
           "percentage": 76.4,
           "class_rank": 34,
-          "grade_rank": 34,
-          "_class_size": 40
+          "grade_rank": 127,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "أوس بن يوسف بن خلفان مبارك المحرمي",
@@ -14944,8 +15219,9 @@
           "max_total": 1000,
           "percentage": 72.1,
           "class_rank": 35,
-          "grade_rank": 35,
-          "_class_size": 40
+          "grade_rank": 144,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "سعيد بن يوسف بن سعيد مسكين الحارثي",
@@ -14998,8 +15274,9 @@
           "max_total": 1000,
           "percentage": 71.8,
           "class_rank": 36,
-          "grade_rank": 36,
-          "_class_size": 40
+          "grade_rank": 146,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "يامن بن عيسى بن هاشل خميس الوضاحي",
@@ -15052,8 +15329,9 @@
           "max_total": 1000,
           "percentage": 71.6,
           "class_rank": 37,
-          "grade_rank": 37,
-          "_class_size": 40
+          "grade_rank": 147,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "كريم العاقب  صديق",
@@ -15106,8 +15384,9 @@
           "max_total": 1000,
           "percentage": 69.8,
           "class_rank": 38,
-          "grade_rank": 38,
-          "_class_size": 40
+          "grade_rank": 152,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن علي بن عبدالله سليّم الهاشمي",
@@ -15160,8 +15439,9 @@
           "max_total": 1000,
           "percentage": 66.9,
           "class_rank": 39,
-          "grade_rank": 39,
-          "_class_size": 40
+          "grade_rank": 155,
+          "_class_size": 40,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن يونس بن أحمد خليل الفارسي",
@@ -15214,8 +15494,9 @@
           "max_total": 1000,
           "percentage": 62.5,
           "class_rank": 40,
-          "grade_rank": 40,
-          "_class_size": 40
+          "grade_rank": 160,
+          "_class_size": 40,
+          "_grade_size": 162
         }
       ]
     },
@@ -15274,8 +15555,9 @@
           "max_total": 1000,
           "percentage": 99.9,
           "class_rank": 1,
-          "grade_rank": 1,
-          "_class_size": 41
+          "grade_rank": 2,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "حسن بن محمد بن حسن محمد العجمي",
@@ -15328,8 +15610,9 @@
           "max_total": 1000,
           "percentage": 97.7,
           "class_rank": 2,
-          "grade_rank": 2,
-          "_class_size": 41
+          "grade_rank": 6,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عمر بن أحمد بن سالم خلفان اليحيائي",
@@ -15382,8 +15665,9 @@
           "max_total": 1000,
           "percentage": 96.8,
           "class_rank": 3,
-          "grade_rank": 3,
-          "_class_size": 41
+          "grade_rank": 10,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن ادريس بن محمد سالم المحرمي",
@@ -15436,8 +15720,9 @@
           "max_total": 1000,
           "percentage": 96.6,
           "class_rank": 4,
-          "grade_rank": 4,
-          "_class_size": 41
+          "grade_rank": 11,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "اسحاق بن أيوب بن ناصر منين الظامري",
@@ -15490,8 +15775,9 @@
           "max_total": 1000,
           "percentage": 95.0,
           "class_rank": 5,
-          "grade_rank": 5,
-          "_class_size": 41
+          "grade_rank": 19,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "ليث بن خليفه بن سليمان ناصر الحديدي",
@@ -15544,8 +15830,9 @@
           "max_total": 1000,
           "percentage": 94.7,
           "class_rank": 6,
-          "grade_rank": 6,
-          "_class_size": 41
+          "grade_rank": 20,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "مؤثر بن هيثم بن خميس سالم اليحيائي",
@@ -15598,8 +15885,9 @@
           "max_total": 1000,
           "percentage": 94.2,
           "class_rank": 7,
-          "grade_rank": 7,
-          "_class_size": 41
+          "grade_rank": 22,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن فاضل بن خميس موسى البلوشي",
@@ -15652,8 +15940,9 @@
           "max_total": 1000,
           "percentage": 93.4,
           "class_rank": 8,
-          "grade_rank": 8,
-          "_class_size": 41
+          "grade_rank": 32,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عمر بن مصطفى بن علي سيف الفهدي",
@@ -15706,8 +15995,9 @@
           "max_total": 1000,
           "percentage": 92.1,
           "class_rank": 9,
-          "grade_rank": 9,
-          "_class_size": 41
+          "grade_rank": 43,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عمر بن سمير بن علي راشد الحسني",
@@ -15760,8 +16050,9 @@
           "max_total": 1000,
           "percentage": 90.4,
           "class_rank": 10,
-          "grade_rank": 10,
-          "_class_size": 41
+          "grade_rank": 55,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن خميس بن عبدالله خميس اليحيائي",
@@ -15814,8 +16105,9 @@
           "max_total": 1000,
           "percentage": 90.1,
           "class_rank": 11,
-          "grade_rank": 11,
-          "_class_size": 41
+          "grade_rank": 59,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "علي بن حسين بن علي سيف اليوسفي",
@@ -15868,8 +16160,9 @@
           "max_total": 1000,
           "percentage": 89.9,
           "class_rank": 12,
-          "grade_rank": 12,
-          "_class_size": 41
+          "grade_rank": 61,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "معاذ بن عمر بن خميس زايد الضامري",
@@ -15922,8 +16215,9 @@
           "max_total": 1000,
           "percentage": 89.8,
           "class_rank": 13,
-          "grade_rank": 13,
-          "_class_size": 41
+          "grade_rank": 63,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن جاسم بن محمد موسى اللواتي",
@@ -15976,8 +16270,9 @@
           "max_total": 1000,
           "percentage": 89.3,
           "class_rank": 14,
-          "grade_rank": 14,
-          "_class_size": 41
+          "grade_rank": 66,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "يونس بن ناصر بن سالم عامر السالمي",
@@ -16030,8 +16325,9 @@
           "max_total": 1000,
           "percentage": 88.8,
           "class_rank": 15,
-          "grade_rank": 15,
-          "_class_size": 41
+          "grade_rank": 70,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "تركي بن سامي بن طالب خلفان المحرمي",
@@ -16084,8 +16380,9 @@
           "max_total": 1000,
           "percentage": 88.5,
           "class_rank": 16,
-          "grade_rank": 16,
-          "_class_size": 41
+          "grade_rank": 74,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد بن سمير بن محمد عبدالله العمري",
@@ -16138,8 +16435,9 @@
           "max_total": 1000,
           "percentage": 87.8,
           "class_rank": 17,
-          "grade_rank": 17,
-          "_class_size": 41
+          "grade_rank": 79,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "الوليد بن خالد بن أحمد سعيد الزدجالي",
@@ -16192,8 +16490,9 @@
           "max_total": 1000,
           "percentage": 86.5,
           "class_rank": 18,
-          "grade_rank": 18,
-          "_class_size": 41
+          "grade_rank": 91,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "سلطان بن سامي بن حميد ساعد المسلمي",
@@ -16246,8 +16545,9 @@
           "max_total": 1000,
           "percentage": 85.2,
           "class_rank": 19,
-          "grade_rank": 19,
-          "_class_size": 41
+          "grade_rank": 100,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "خالد بن هلال بن سيف محمد المقبالي",
@@ -16300,8 +16600,9 @@
           "max_total": 1000,
           "percentage": 85.0,
           "class_rank": 20,
-          "grade_rank": 20,
-          "_class_size": 41
+          "grade_rank": 101,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "مهنا بن محمد بن صالح خميس الهدابي",
@@ -16354,8 +16655,9 @@
           "max_total": 1000,
           "percentage": 79.7,
           "class_rank": 21,
-          "grade_rank": 21,
-          "_class_size": 41
+          "grade_rank": 116,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "سلطان بن سعود بن محمد سعيد السليمي",
@@ -16408,8 +16710,9 @@
           "max_total": 1000,
           "percentage": 79.3,
           "class_rank": 22,
-          "grade_rank": 22,
-          "_class_size": 41
+          "grade_rank": 118,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "يونس بن يعقوب بن حمود سليمان الرحبي",
@@ -16462,8 +16765,9 @@
           "max_total": 1000,
           "percentage": 75.7,
           "class_rank": 23,
-          "grade_rank": 23,
-          "_class_size": 41
+          "grade_rank": 130,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "حسين بن مسعود بن سعيد محمد الحوسني",
@@ -16516,8 +16820,9 @@
           "max_total": 1000,
           "percentage": 75.5,
           "class_rank": 24,
-          "grade_rank": 24,
-          "_class_size": 41
+          "grade_rank": 131,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "طلال بن نبيل بن محمد خلفان اليحيائي",
@@ -16570,8 +16875,9 @@
           "max_total": 1000,
           "percentage": 75.5,
           "class_rank": 25,
-          "grade_rank": 25,
-          "_class_size": 41
+          "grade_rank": 132,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "أنور محمد عارف  البلوشي",
@@ -16624,8 +16930,9 @@
           "max_total": 1000,
           "percentage": 75.1,
           "class_rank": 26,
-          "grade_rank": 26,
-          "_class_size": 41
+          "grade_rank": 134,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "تيمور بن فيصل بن علي منين اليوسفي",
@@ -16678,8 +16985,9 @@
           "max_total": 1000,
           "percentage": 75.0,
           "class_rank": 27,
-          "grade_rank": 27,
-          "_class_size": 41
+          "grade_rank": 135,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "الوليد بن سليمان بن ناصر سليمان البوسعيدي",
@@ -16732,8 +17040,9 @@
           "max_total": 1000,
           "percentage": 73.8,
           "class_rank": 28,
-          "grade_rank": 28,
-          "_class_size": 41
+          "grade_rank": 137,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "حسن بن مسعود بن سعيد محمد الحوسني",
@@ -16786,8 +17095,9 @@
           "max_total": 1000,
           "percentage": 73.4,
           "class_rank": 29,
-          "grade_rank": 29,
-          "_class_size": 41
+          "grade_rank": 138,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "سلطان بن حمد بن درويش غلام البلوشي",
@@ -16840,8 +17150,9 @@
           "max_total": 1000,
           "percentage": 73.4,
           "class_rank": 30,
-          "grade_rank": 30,
-          "_class_size": 41
+          "grade_rank": 139,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "أحمد بن يحيى بن مبارك حسن البلوشي",
@@ -16894,8 +17205,9 @@
           "max_total": 1000,
           "percentage": 73.4,
           "class_rank": 31,
-          "grade_rank": 31,
-          "_class_size": 41
+          "grade_rank": 140,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "هود بن موسى بن منين سليمان السيابي",
@@ -16948,8 +17260,9 @@
           "max_total": 1000,
           "percentage": 72.0,
           "class_rank": 32,
-          "grade_rank": 32,
-          "_class_size": 41
+          "grade_rank": 145,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "سادن بن سيف بن حبيب راشد المحرزي",
@@ -17002,8 +17315,9 @@
           "max_total": 1000,
           "percentage": 71.3,
           "class_rank": 33,
-          "grade_rank": 33,
-          "_class_size": 41
+          "grade_rank": 148,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عمر محمد أعظم",
@@ -17056,8 +17370,9 @@
           "max_total": 1000,
           "percentage": 70.7,
           "class_rank": 34,
-          "grade_rank": 34,
-          "_class_size": 41
+          "grade_rank": 150,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن حمد بن حمود خميس الزدجالي",
@@ -17110,8 +17425,9 @@
           "max_total": 1000,
           "percentage": 68.5,
           "class_rank": 35,
-          "grade_rank": 35,
-          "_class_size": 41
+          "grade_rank": 154,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "طارق بن جميل بن مبارك محمود البلوشي",
@@ -17164,8 +17480,9 @@
           "max_total": 1000,
           "percentage": 66.9,
           "class_rank": 36,
-          "grade_rank": 36,
-          "_class_size": 41
+          "grade_rank": 156,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "عبدالله بن صالح بن علي صالح الحسني",
@@ -17218,8 +17535,9 @@
           "max_total": 1000,
           "percentage": 66.2,
           "class_rank": 37,
-          "grade_rank": 37,
-          "_class_size": 41
+          "grade_rank": 157,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "تيمور بن محمد بن سالم عبدالله الحديدي",
@@ -17272,8 +17590,9 @@
           "max_total": 1000,
           "percentage": 65.7,
           "class_rank": 38,
-          "grade_rank": 38,
-          "_class_size": 41
+          "grade_rank": 158,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "فرزد فيصل شريف ال باعلوي",
@@ -17326,8 +17645,9 @@
           "max_total": 1000,
           "percentage": 62.6,
           "class_rank": 39,
-          "grade_rank": 39,
-          "_class_size": 41
+          "grade_rank": 159,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "قيصر بن يوسف بن سعيد محمد الظامري",
@@ -17380,8 +17700,9 @@
           "max_total": 1000,
           "percentage": 61.5,
           "class_rank": 40,
-          "grade_rank": 40,
-          "_class_size": 41
+          "grade_rank": 161,
+          "_class_size": 41,
+          "_grade_size": 162
         },
         {
           "name": "محمد ابراهيم حسن احمد",
@@ -17434,8 +17755,9 @@
           "max_total": 400,
           "percentage": 12.5,
           "class_rank": 41,
-          "grade_rank": 41,
-          "_class_size": 41
+          "grade_rank": 162,
+          "_class_size": 41,
+          "_grade_size": 162
         }
       ]
     }
