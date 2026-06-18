@@ -846,7 +846,11 @@ function switchTab(tab){
 // ===== ASSISTANTS SYSTEM =====
 const ADMIN_PIN = '11908823';
 
-// Default assistants list (can be extended)
+// Built-in permanent assistants (cannot be deleted)
+const BUILTIN_ASSISTANTS = [
+  {name: 'مساعد المدير', pin: 'Oman@2020', builtin: true}
+];
+
 let _assistants = JSON.parse(localStorage.getItem('admin_assistants')||'[]');
 
 function saveAssistants(){
@@ -856,18 +860,22 @@ function saveAssistants(){
 function renderAssistants(){
   const list = document.getElementById('asstList');
   if(!list) return;
-  if(_assistants.length === 0){
+  const allAssts = [...BUILTIN_ASSISTANTS, ..._assistants];
+  if(allAssts.length === 0){
     list.innerHTML = '<div style="color:var(--muted);font-size:.85rem;padding:12px 0;">لا يوجد مساعدون مضافون</div>';
     return;
   }
-  list.innerHTML = _assistants.map((a,i)=>`
+  list.innerHTML = allAssts.map((a,i)=>`
     <div class="asst-item">
-      <div class="asst-item-icon">👤</div>
+      <div class="asst-item-icon">${a.builtin?'🔒':'👤'}</div>
       <div class="asst-item-info">
-        <div class="asst-item-name">${a.name}</div>
-        <div class="asst-item-pin">PIN: ${'•'.repeat(a.pin.length)}</div>
+        <div class="asst-item-name">${a.name} ${a.builtin?'<span style="font-size:.68rem;background:rgba(245,158,11,.15);color:#fbbf24;border:1px solid rgba(245,158,11,.2);border-radius:999px;padding:1px 8px;font-weight:900;">دائم</span>':''}</div>
+        <div class="asst-item-pin" dir="ltr">PIN: ${a.pin}</div>
       </div>
-      <button class="asst-item-del" onclick="delAssistant(${i})" title="حذف">🗑</button>
+      ${a.builtin
+        ? '<div style="width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:16px;opacity:.4">🔒</div>'
+        : `<button class="asst-item-del" onclick="delAssistant(${i - BUILTIN_ASSISTANTS.length})" title="حذف">🗑</button>`
+      }
     </div>
   `).join('');
 }
@@ -878,6 +886,7 @@ function addAssistant(){
   if(!name){ alert('أدخل الاسم'); return; }
   if(!pin || pin.length < 4){ alert('الرقم السري يجب أن يكون 4 أرقام على الأقل'); return; }
   if(pin === ADMIN_PIN){ alert('لا يمكن استخدام نفس رقم المدير'); return; }
+  if(BUILTIN_ASSISTANTS.some(a=>a.pin===pin)){ alert('هذا الرقم السري محجوز'); return; }
   if(_assistants.some(a=>a.pin===pin)){ alert('هذا الرقم السري مستخدم مسبقاً'); return; }
   _assistants.push({name, pin});
   saveAssistants();
@@ -904,12 +913,12 @@ function doLogin(){
     _loginSuccess('مدير', true);
     return;
   }
-  // Check assistants
+  // Check builtin assistants first
+  const builtin = BUILTIN_ASSISTANTS.find(a=>a.pin===v);
+  if(builtin){ _loginSuccess(builtin.name, false); return; }
+  // Check dynamic assistants
   const asst = _assistants.find(a=>a.pin===v);
-  if(asst){
-    _loginSuccess(asst.name, false);
-    return;
-  }
+  if(asst){ _loginSuccess(asst.name, false); return; }
   // Wrong
   const e = document.getElementById('loginErr');
   e.style.display='block';
