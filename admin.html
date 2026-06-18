@@ -291,6 +291,148 @@ footer{background:rgba(0,0,0,.3);border-top:1px solid var(--border);
   .podium-wrap{flex-direction:column;align-items:center;}
   .podium-card{max-width:100%;width:100%;}
 }
+
+/* ====== TABS ====== */
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--border);background:rgba(0,0,0,.2);padding:0 20px;}
+.tab-btn{
+  padding:14px 20px;border:0;background:transparent;color:var(--muted);
+  font-family:'Tajawal',sans-serif;font-weight:800;font-size:.9rem;
+  cursor:pointer;border-bottom:3px solid transparent;transition:.2s;
+  margin-bottom:-1px;
+}
+.tab-btn.active{color:var(--gold2);border-bottom-color:var(--gold2);}
+.tab-btn:hover:not(.active){color:rgba(255,255,255,.8);}
+
+.tab-panel{display:none;}
+.tab-panel.active{display:block;}
+
+/* ====== EDITOR PANEL ====== */
+.editor-panel{padding:20px;max-width:900px;}
+.editor-search{display:flex;gap:10px;margin-bottom:20px;align-items:flex-end;}
+.editor-search input{
+  flex:1;height:48px;background:rgba(255,255,255,.07);
+  border:1.5px solid rgba(255,255,255,.12);border-radius:14px;
+  color:#fff;font-family:'Tajawal',sans-serif;font-weight:700;
+  font-size:1rem;padding:0 16px;outline:none;direction:ltr;text-align:center;
+  transition:.2s;
+}
+.editor-search input:focus{border-color:var(--gold);}
+.btn-find{
+  height:48px;padding:0 20px;border:0;border-radius:14px;
+  background:linear-gradient(135deg,var(--blue),#1d4ed8);
+  color:#fff;font-family:'Tajawal',sans-serif;font-weight:900;font-size:.9rem;
+  cursor:pointer;transition:.2s;white-space:nowrap;
+}
+.btn-find:hover{box-shadow:0 6px 16px rgba(37,99,235,.4);}
+
+.student-edit-card{
+  background:var(--card);border:1px solid var(--border);border-radius:20px;
+  padding:20px;margin-bottom:16px;
+}
+.student-edit-header{
+  display:flex;align-items:center;gap:14px;margin-bottom:18px;
+  padding-bottom:14px;border-bottom:1px solid rgba(255,255,255,.08);
+}
+.student-edit-avatar{
+  width:52px;height:52px;border-radius:50%;
+  background:linear-gradient(135deg,var(--green),#22c55e);
+  display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;
+}
+.student-edit-name{font-size:1.05rem;font-weight:900;}
+.student-edit-meta{font-size:.78rem;color:var(--muted);margin-top:3px;}
+
+.subjects-edit-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;}
+.subj-edit-item{
+  background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);
+  border-radius:14px;padding:12px;
+}
+.subj-edit-name{font-size:.78rem;font-weight:800;color:var(--muted);margin-bottom:8px;}
+.subj-edit-inputs{display:flex;gap:8px;align-items:center;}
+.subj-score-input{
+  flex:1;height:38px;background:rgba(255,255,255,.08);
+  border:1px solid rgba(255,255,255,.12);border-radius:10px;
+  color:#fff;font-family:'Tajawal',sans-serif;font-weight:900;
+  font-size:1rem;text-align:center;outline:none;
+  transition:.2s;
+}
+.subj-score-input:focus{border-color:var(--gold);background:rgba(255,255,255,.12);}
+.subj-score-input.changed{border-color:#22c55e;background:rgba(34,197,94,.1);}
+.subj-level-badge{
+  width:32px;height:32px;border-radius:8px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:.75rem;font-weight:900;flex-shrink:0;
+}
+.edit-actions{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap;}
+.btn-save-edit{
+  height:44px;padding:0 24px;border:0;border-radius:12px;
+  background:linear-gradient(135deg,var(--green),#16a34a);
+  color:#fff;font-family:'Tajawal',sans-serif;font-weight:900;
+  font-size:.9rem;cursor:pointer;transition:.2s;
+}
+.btn-save-edit:hover{box-shadow:0 6px 16px rgba(34,197,94,.4);}
+.btn-export{
+  height:44px;padding:0 24px;border:0;border-radius:12px;
+  background:linear-gradient(135deg,var(--gold),#d97706);
+  color:#1a0a00;font-family:'Tajawal',sans-serif;font-weight:900;
+  font-size:.9rem;cursor:pointer;transition:.2s;
+}
+.btn-export:hover{box-shadow:0 6px 16px rgba(245,158,11,.4);}
+.btn-cancel-edit{
+  height:44px;padding:0 20px;border:1px solid rgba(255,255,255,.15);
+  border-radius:12px;background:transparent;
+  color:rgba(255,255,255,.6);font-family:'Tajawal',sans-serif;font-weight:800;
+  font-size:.9rem;cursor:pointer;transition:.2s;
+}
+.btn-cancel-edit:hover{background:rgba(255,255,255,.07);}
+.edit-note{font-size:.78rem;color:var(--muted);margin-top:8px;line-height:1.5;}
+
+/* ====== ASSISTANTS PANEL ====== */
+.asst-panel{padding:20px;max-width:700px;}
+.asst-panel h3{font-size:1rem;font-weight:900;margin-bottom:4px;color:var(--gold2);}
+.asst-panel p{font-size:.82rem;color:var(--muted);margin-bottom:20px;}
+.asst-list{display:flex;flex-direction:column;gap:10px;margin-bottom:20px;}
+.asst-item{
+  display:flex;align-items:center;gap:12px;
+  background:var(--card);border:1px solid var(--border);
+  border-radius:14px;padding:14px 16px;
+}
+.asst-item-icon{font-size:20px;flex-shrink:0;}
+.asst-item-info{flex:1;}
+.asst-item-name{font-size:.88rem;font-weight:800;}
+.asst-item-pin{font-size:.78rem;color:var(--muted);margin-top:2px;direction:ltr;text-align:right;}
+.asst-item-del{
+  width:32px;height:32px;border:0;border-radius:8px;
+  background:rgba(215,25,32,.15);color:#fca5a5;
+  cursor:pointer;font-size:14px;transition:.2s;flex-shrink:0;
+}
+.asst-item-del:hover{background:rgba(215,25,32,.3);}
+.asst-add-form{
+  background:var(--card);border:1px solid var(--border);
+  border-radius:16px;padding:16px;display:grid;
+  grid-template-columns:1fr 1fr auto;gap:10px;align-items:end;
+}
+.asst-add-form label{font-size:.75rem;font-weight:800;color:var(--muted);display:block;margin-bottom:6px;}
+.asst-add-form input{
+  height:42px;background:rgba(255,255,255,.07);
+  border:1px solid rgba(255,255,255,.12);border-radius:10px;
+  color:#fff;font-family:'Tajawal',sans-serif;font-weight:700;
+  font-size:.9rem;padding:0 12px;outline:none;width:100%;
+  transition:.2s;
+}
+.asst-add-form input:focus{border-color:var(--gold);}
+.btn-add-asst{
+  height:42px;padding:0 20px;border:0;border-radius:10px;
+  background:linear-gradient(135deg,var(--purple),#6d28d9);
+  color:#fff;font-family:'Tajawal',sans-serif;font-weight:900;
+  font-size:.9rem;cursor:pointer;white-space:nowrap;transition:.2s;
+}
+.btn-add-asst:hover{box-shadow:0 4px 12px rgba(124,58,237,.4);}
+.admin-badge{
+  display:inline-flex;align-items:center;gap:4px;
+  background:rgba(245,158,11,.15);color:var(--gold2);
+  border:1px solid rgba(245,158,11,.2);border-radius:999px;
+  padding:2px 10px;font-size:.7rem;font-weight:900;
+}
 </style>
 </head>
 <body>
@@ -321,12 +463,21 @@ footer{background:rgba(0,0,0,.3);border-top:1px solid var(--border);
 
 <header>
   <div>
-    <div class="header-title">🏫 لوحة تحكم المدير</div>
+    <div class="header-title">🏫 لوحة تحكم المدير — <span id="adminRoleLabel">مدير</span></div>
     <div class="header-sub">مدرسة أبو القاسم الزهراوي — الدور الأول ٢٠٢٥/٢٠٢٦</div>
   </div>
   <button class="btn-logout" onclick="doLogout()">خروج</button>
 </header>
 
+<!-- TABS -->
+<div class="tabs">
+  <button class="tab-btn active" onclick="switchTab('honor')">🏆 الأوائل</button>
+  <button class="tab-btn" onclick="switchTab('edit')" id="tabEdit">✏️ تعديل الدرجات</button>
+  <button class="tab-btn" onclick="switchTab('asst')" id="tabAsst">👥 المساعدون</button>
+</div>
+
+<!-- TAB: HONOR (CONTROLS) -->
+<div id="panelHonor" class="tab-panel active">
 <!-- CONTROLS -->
 <div class="controls">
 
@@ -412,6 +563,40 @@ footer{background:rgba(0,0,0,.3);border-top:1px solid var(--border);
   <div class="empty-state">
     <div class="icon">🏆</div>
     اختر الإعدادات واضغط <strong>عرض</strong>
+  </div>
+</div>
+
+</div><!-- end panelHonor -->
+
+<!-- TAB: EDIT GRADES -->
+<div id="panelEdit" class="tab-panel">
+  <div class="editor-panel">
+    <div class="editor-search">
+      <input type="text" id="editSearchInput" inputmode="numeric"
+             placeholder="أدخل الرقم المدني للطالب" maxlength="20">
+      <button class="btn-find" onclick="findStudentForEdit()">🔍 بحث</button>
+    </div>
+    <div id="editCard"></div>
+  </div>
+</div>
+
+<!-- TAB: ASSISTANTS -->
+<div id="panelAsst" class="tab-panel">
+  <div class="asst-panel">
+    <h3>👥 إدارة المساعدين</h3>
+    <p>المساعدون يمكنهم الدخول للوحة وعرض الأوائل فقط — لا يمكنهم التعديل أو إدارة المساعدين.</p>
+    <div class="asst-list" id="asstList"></div>
+    <div class="asst-add-form" id="asstAddForm">
+      <div>
+        <label>الاسم</label>
+        <input type="text" id="asstName" placeholder="مثال: أستاذ سالم">
+      </div>
+      <div>
+        <label>الرقم السري</label>
+        <input type="text" id="asstPin" placeholder="أرقام فقط" maxlength="10" inputmode="numeric">
+      </div>
+      <button class="btn-add-asst" onclick="addAssistant()">➕ إضافة</button>
+    </div>
   </div>
 </div>
 
@@ -646,6 +831,286 @@ function captureImage(){
     a.click();
   });
 }
+
+
+// ===== TABS =====
+let _isAdmin = true; // true = full admin, false = assistant (read-only)
+
+function switchTab(tab){
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
+  document.getElementById('panel'+tab.charAt(0).toUpperCase()+tab.slice(1)).classList.add('active');
+  event.target.classList.add('active');
+}
+
+// ===== ASSISTANTS SYSTEM =====
+const ADMIN_PIN = '11908823';
+
+// Default assistants list (can be extended)
+let _assistants = JSON.parse(localStorage.getItem('admin_assistants')||'[]');
+
+function saveAssistants(){
+  localStorage.setItem('admin_assistants', JSON.stringify(_assistants));
+}
+
+function renderAssistants(){
+  const list = document.getElementById('asstList');
+  if(!list) return;
+  if(_assistants.length === 0){
+    list.innerHTML = '<div style="color:var(--muted);font-size:.85rem;padding:12px 0;">لا يوجد مساعدون مضافون</div>';
+    return;
+  }
+  list.innerHTML = _assistants.map((a,i)=>`
+    <div class="asst-item">
+      <div class="asst-item-icon">👤</div>
+      <div class="asst-item-info">
+        <div class="asst-item-name">${a.name}</div>
+        <div class="asst-item-pin">PIN: ${'•'.repeat(a.pin.length)}</div>
+      </div>
+      <button class="asst-item-del" onclick="delAssistant(${i})" title="حذف">🗑</button>
+    </div>
+  `).join('');
+}
+
+function addAssistant(){
+  const name = document.getElementById('asstName').value.trim();
+  const pin  = document.getElementById('asstPin').value.trim();
+  if(!name){ alert('أدخل الاسم'); return; }
+  if(!pin || pin.length < 4){ alert('الرقم السري يجب أن يكون 4 أرقام على الأقل'); return; }
+  if(pin === ADMIN_PIN){ alert('لا يمكن استخدام نفس رقم المدير'); return; }
+  if(_assistants.some(a=>a.pin===pin)){ alert('هذا الرقم السري مستخدم مسبقاً'); return; }
+  _assistants.push({name, pin});
+  saveAssistants();
+  renderAssistants();
+  document.getElementById('asstName').value='';
+  document.getElementById('asstPin').value='';
+}
+
+function delAssistant(i){
+  if(!confirm(`حذف ${_assistants[i].name}?`)) return;
+  _assistants.splice(i,1);
+  saveAssistants();
+  renderAssistants();
+}
+
+// ===== UPGRADED AUTH =====
+// Override doLogin to support assistants
+const _origDoLogin = doLogin;
+// Redefine doLogin
+function doLogin(){
+  const v = document.getElementById('pinInput').value.trim();
+  // Check admin
+  if(v === ADMIN_PIN){
+    _loginSuccess('مدير', true);
+    return;
+  }
+  // Check assistants
+  const asst = _assistants.find(a=>a.pin===v);
+  if(asst){
+    _loginSuccess(asst.name, false);
+    return;
+  }
+  // Wrong
+  const e = document.getElementById('loginErr');
+  e.style.display='block';
+  document.getElementById('pinInput').value='';
+  document.getElementById('pinInput').focus();
+  setTimeout(()=>e.style.display='none',3000);
+}
+
+function _loginSuccess(name, isAdmin){
+  _isAdmin = isAdmin;
+  document.getElementById('loginScreen').style.display='none';
+  document.getElementById('mainApp').style.display='block';
+  sessionStorage.setItem('admin_ok','1');
+  sessionStorage.setItem('admin_name', name);
+  sessionStorage.setItem('admin_is_admin', isAdmin?'1':'0');
+  // Update header label
+  const lbl = document.getElementById('adminRoleLabel');
+  if(lbl) lbl.innerHTML = isAdmin
+    ? '<span class="admin-badge">👑 مدير</span>'
+    : `<span style="color:rgba(255,255,255,.7);font-size:.85rem">${name}</span>`;
+  // Hide restricted tabs for assistants
+  if(!isAdmin){
+    const tabEdit = document.getElementById('tabEdit');
+    const tabAsst = document.getElementById('tabAsst');
+    if(tabEdit) tabEdit.style.display='none';
+    if(tabAsst) tabAsst.style.display='none';
+  }
+  renderAssistants();
+}
+
+// Update session restore to handle role
+window.addEventListener('load',()=>{
+  if(sessionStorage.getItem('admin_ok')==='1'){
+    document.getElementById('loginScreen').style.display='none';
+    document.getElementById('mainApp').style.display='block';
+    const name = sessionStorage.getItem('admin_name')||'مدير';
+    const isAdmin = sessionStorage.getItem('admin_is_admin')!=='0';
+    _isAdmin = isAdmin;
+    const lbl = document.getElementById('adminRoleLabel');
+    if(lbl) lbl.innerHTML = isAdmin
+      ? '<span class="admin-badge">👑 مدير</span>'
+      : `<span style="color:rgba(255,255,255,.7);font-size:.85rem">${name}</span>`;
+    if(!isAdmin){
+      const tabEdit = document.getElementById('tabEdit');
+      const tabAsst = document.getElementById('tabAsst');
+      if(tabEdit) tabEdit.style.display='none';
+      if(tabAsst) tabAsst.style.display='none';
+    }
+    renderAssistants();
+  } else {
+    document.getElementById('pinInput').focus();
+  }
+});
+
+// ===== GRADE EDITOR =====
+// Full grades data — loaded from grades.json embedded here
+let _gradesData = null;  // will be loaded below
+let _editStudent = null;
+let _editChanges = {};
+
+function loadGradesData(){
+  // grades.json is loaded from the file (fetch) OR inline if available
+  // For offline use: fetch from same directory
+  if(_gradesData) return Promise.resolve();
+  return fetch('grades.json?t='+Date.now())
+    .then(r=>r.ok?r.json():null)
+    .then(d=>{ if(d) _gradesData = d; })
+    .catch(()=>{});
+}
+
+function findStudentForEdit(){
+  if(!_isAdmin){ alert('هذه الميزة للمدير فقط'); return; }
+  const q = document.getElementById('editSearchInput').value.trim();
+  if(!q){ alert('أدخل الرقم المدني'); return; }
+  // Search in STUDENTS
+  const s = STUDENTS.find(st=>st.cl && String(st.n) && STUDENTS.filter(x=>true));
+  // Actually search by civil_id — we need full data from grades.json
+  loadGradesData().then(()=>{
+    if(!_gradesData){ showEditError('grades.json غير متاح — الرجاء التأكد من رفع الموقع على GitHub'); return; }
+    let found = null;
+    for(const [cls, info] of Object.entries(_gradesData.classes)){
+      const st = info.students.find(s=>s.civil_id === q);
+      if(st){ found = {...st, _cls: cls}; break; }
+    }
+    if(!found){ showEditError('❌ لم يُعثر على طالب بهذا الرقم المدني'); return; }
+    renderEditCard(found);
+  });
+}
+
+function showEditError(msg){
+  document.getElementById('editCard').innerHTML =
+    `<div style="background:rgba(215,25,32,.12);border:1px solid rgba(215,25,32,.3);border-radius:16px;padding:16px;color:#fca5a5;font-weight:800;">${msg}</div>`;
+}
+
+function renderEditCard(s){
+  _editStudent = s;
+  _editChanges = {};
+  const levelColor = l => l==='أ'?'#22c55e':l==='ب'?'#3b82f6':l==='ج'?'#f59e0b':l==='د'?'#f97316':'#ef4444';
+
+  const subjsHtml = Object.entries(s.subjects).map(([name,d])=>{
+    if(!d.score && d.score !== 0) return '';
+    const col = levelColor(d.level||'د');
+    return `<div class="subj-edit-item" id="sei_${name}">
+      <div class="subj-edit-name">${name}</div>
+      <div class="subj-edit-inputs">
+        <div class="subj-level-badge" style="background:${col}22;color:${col}" id="lv_${name}">${d.level||'—'}</div>
+        <input type="number" class="subj-score-input" id="sc_${name}"
+               value="${d.score}" min="0" max="100"
+               oninput="markChanged('${name}',this)">
+      </div>
+    </div>`;
+  }).join('');
+
+  document.getElementById('editCard').innerHTML = `
+    <div class="student-edit-card">
+      <div class="student-edit-header">
+        <div class="student-edit-avatar">🎓</div>
+        <div>
+          <div class="student-edit-name">${s.name}</div>
+          <div class="student-edit-meta">الصف: ${s.grade} — الشعبة: ${s.class_name} — الرقم: ${s.civil_id}</div>
+        </div>
+      </div>
+      <div class="subjects-edit-grid">${subjsHtml}</div>
+      <div class="edit-actions">
+        <button class="btn-save-edit" onclick="applyEdits()">💾 حفظ التعديلات</button>
+        <button class="btn-export" onclick="exportGrades()">📥 تصدير grades.json</button>
+        <button class="btn-cancel-edit" onclick="document.getElementById('editCard').innerHTML='';_editStudent=null;">إلغاء</button>
+      </div>
+      <div class="edit-note">⚠️ بعد التعديل اضغط "تصدير grades.json" ثم ارفع الملف على GitHub لتحديث الموقع.</div>
+    </div>`;
+}
+
+function markChanged(subj, input){
+  const val = parseInt(input.value);
+  if(isNaN(val) || val < 0 || val > 100){ input.classList.add('changed'); return; }
+  input.classList.add('changed');
+  _editChanges[subj] = val;
+  // Update level badge
+  const lv = val>=90?'أ':val>=80?'ب':val>=65?'ج':val>=50?'د':'هـ';
+  const col = lv==='أ'?'#22c55e':lv==='ب'?'#3b82f6':lv==='ج'?'#f59e0b':lv==='د'?'#f97316':'#ef4444';
+  const badge = document.getElementById('lv_'+subj);
+  if(badge){ badge.textContent=lv; badge.style.background=col+'22'; badge.style.color=col; }
+}
+
+function applyEdits(){
+  if(!_editStudent || Object.keys(_editChanges).length===0){
+    alert('لم تُجر أي تعديلات'); return;
+  }
+  if(!_gradesData){ alert('grades.json غير محمّل'); return; }
+  // Find and update student in _gradesData
+  const classInfo = _gradesData.classes[_editStudent._cls];
+  const idx = classInfo.students.findIndex(s=>s.civil_id===_editStudent.civil_id);
+  if(idx<0){ alert('خطأ: لم يُعثر على الطالب'); return; }
+  const st = classInfo.students[idx];
+  let changed = [];
+  for(const [subj, newScore] of Object.entries(_editChanges)){
+    if(st.subjects[subj]){
+      const oldScore = st.subjects[subj].score;
+      const lv = newScore>=90?'أ':newScore>=80?'ب':newScore>=65?'ج':newScore>=50?'د':'هـ';
+      st.subjects[subj].score = newScore;
+      st.subjects[subj].level = lv;
+      changed.push(`${subj}: ${oldScore} ← ${newScore}`);
+    }
+  }
+  // Recalculate total, percentage
+  const valid = Object.values(st.subjects).filter(d=>d.score!==null&&d.score!==undefined);
+  st.total = valid.reduce((a,d)=>a+(d.score||0),0);
+  st.percentage = Math.round(st.total/st.max_total*1000)/10;
+  // Re-rank class
+  classInfo.students.sort((a,b)=>b.total-a.total);
+  let rank=1;
+  classInfo.students.forEach((s,i)=>{
+    if(i>0&&s.total<classInfo.students[i-1].total) rank++;
+    s.class_rank=rank;
+  });
+  // Re-rank grade
+  const grade = st.grade;
+  const gradeStudents = Object.values(_gradesData.classes)
+    .flatMap(c=>c.students).filter(s=>s.grade===grade)
+    .sort((a,b)=>b.total-a.total);
+  let grank=1;
+  gradeStudents.forEach((s,i)=>{
+    if(i>0&&s.total<gradeStudents[i-1].total) grank++;
+    s.grade_rank=grank; s._grade_size=gradeStudents.length;
+  });
+  alert(`✅ تم تعديل ${changed.length} مادة:\n${changed.join('\n')}\n\nالمجموع الجديد: ${st.total} (${st.percentage}%)`);
+  _editChanges = {};
+  document.querySelectorAll('.subj-score-input').forEach(i=>i.classList.remove('changed'));
+}
+
+function exportGrades(){
+  if(!_gradesData){ alert('grades.json غير محمّل'); return; }
+  const json = JSON.stringify(_gradesData, null, 2);
+  const blob = new Blob([json], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'grades.json';
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
 </script>
 </body>
 </html>
