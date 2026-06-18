@@ -256,17 +256,29 @@ header{
 
 /* PRINT */
 @media print{
-  body{background:#fff!important;color:#000!important;}
-  .bg-orbs,.controls,header,.btn-print,.btn-img{display:none!important;}
-  .honor-card,.podium-card{
-    background:#f8f9fa!important;border:1px solid #dee2e6!important;
+  *{-webkit-print-color-adjust:exact!important;print-color-adjust:exact!important;}
+  body{background:#0d1628!important;color:#fff!important;margin:0;padding:0;}
+  .bg-orbs{display:none!important;}
+  .controls,header,.btn-print,.btn-img,footer{display:none!important;}
+  #loginScreen{display:none!important;}
+  #mainApp,#resultsArea{display:block!important;}
+  .page{min-height:unset;}
+  .honor-card{
+    background:rgba(255,255,255,.08)!important;
+    border:1px solid rgba(255,255,255,.2)!important;
+    break-inside:avoid;
+    page-break-inside:avoid;
+  }
+  .podium-card{
+    background:rgba(255,255,255,.08)!important;
+    border:1px solid rgba(255,255,255,.2)!important;
     break-inside:avoid;
   }
-  .card-name,.podium-name,.section-title{color:#000!important;}
-  .card-stat-val,.podium-pct{color:#000!important;}
-  .card-stat-lbl,.podium-class,.card-class{color:#666!important;}
-  #resultsArea{padding:10px!important;}
+  .podium-wrap{display:flex!important;flex-direction:row!important;}
+  .section-title{color:#fbbf24!important;font-size:1.1rem!important;margin-bottom:12px!important;}
   .cards-grid{gap:8px!important;}
+  #resultsArea{padding:12px!important;}
+  .podium-pct{color:#fbbf24!important;}
 }
 
 /* FOOTER */
@@ -517,19 +529,35 @@ function generate(){
 
   // Podium for top 3 (if count >= 3 and mode != simple)
   if(count >= 3 && mode !== 'simple'){
-    const podOrder = top.length >= 3 ? [top[1], top[0], top[2]] : top;
-    const podClasses = top.length >= 3 ? ['p2','p1','p3'] : ['p1','p2','p3'];
-    const podMedals  = top.length >= 3 ? ['🥈','🥇','🥉'] : ['🥇','🥈','🥉'];
-    const podAccents = top.length >= 3 ? ['#94a3b8','#f59e0b','#b45309'] : ['#f59e0b','#94a3b8','#b45309'];
+    // Build podium: always center=rank1, right=rank2, left=rank3
+    // But with ties, multiple students may share rank1/2/3
+    const rank1 = top.filter(s=>s._rank===1);
+    const rank2 = top.filter(s=>s._rank===2);
+    const rank3 = top.filter(s=>s._rank===3);
+
+    // Medal based on _rank
+    const rankMedal = r => r===1?'🥇':r===2?'🥈':r===3?'🥉':'🏅';
+    const rankAccent = r => r===1?'#f59e0b':r===2?'#94a3b8':'#b45309';
+    const rankPClass = r => r===1?'p1':r===2?'p2':'p3';
+
+    // Build podium order: [rank2, rank1, rank3] visually
+    const podItems = [...rank2, ...rank1, ...rank3].slice(0,5);
+    // Sort for visual display: rank2 first, rank1 center, rank3 last
+    const podSorted = [
+      ...(rank2.length?rank2:[]),
+      ...(rank1.length?rank1:[]),
+      ...(rank3.length?rank3:[])
+    ];
+
     html += `<div class="podium-wrap">`;
-    podOrder.forEach((s,i)=>{
-      if(!s) return;
-      const pct  = rankBy==='core' ? s.cp : s.p;
-      const tot  = rankBy==='core' ? `${s.ct}/${s.cm}` : `${s.t}/${s.mt}`;
-      const rl   = rankLabel(s._rank, s._isDup);
-      html += `<div class="podium-card ${podClasses[i]}" style="--card-accent:${podAccents[i]}">
-        <div class="podium-medal">${podMedals[i]}</div>
-        <div class="podium-rank-lbl" style="font-size:.72rem;font-weight:900;color:${podAccents[i]};margin-bottom:4px;">${rl}</div>
+    podSorted.forEach(s=>{
+      const pct = rankBy==='core' ? s.cp : s.p;
+      const tot = rankBy==='core' ? `${s.ct}/${s.cm}` : `${s.t}/${s.mt}`;
+      const rl  = rankLabel(s._rank, s._isDup);
+      const ac  = rankAccent(s._rank);
+      html += `<div class="podium-card ${rankPClass(s._rank)}" style="--card-accent:${ac}">
+        <div class="podium-medal">${rankMedal(s._rank)}</div>
+        <div class="podium-rank-lbl" style="font-size:.72rem;font-weight:900;color:${ac};margin-bottom:4px;">${rl}</div>
         <div class="podium-name">${s.n}</div>
         <div class="podium-class">${s.cl} • ${s.g}</div>
         <div class="podium-pct">${pct}%</div>
@@ -539,8 +567,8 @@ function generate(){
     });
     html += `</div>`;
 
-    // Remaining after podium
-    const rest = top.slice(3);
+    // Remaining (rank 4+)
+    const rest = top.filter(s=>s._rank > 3);
     if(rest.length > 0){
       html += `<div class="cards-grid mode-${mode}">`;
       rest.forEach(s=>{
